@@ -1,0 +1,6019 @@
+{
+  "af": {
+    "name": {
+      "pl": "Afganistan",
+      "en": "Afghanistan",
+      "de": "Afghanistan",
+      "it": "Afghanistan"
+    },
+    "capital": {
+      "pl": "Kabul",
+      "en": "Kabul",
+      "de": "Kabul",
+      "it": "Kabul"
+    },
+    "flag": "flags/af_new.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "pashto",
+      "dari"
+    ],
+    "currency": [
+      "afn"
+    ]
+  },
+  "al": {
+    "name": {
+      "pl": "Albania",
+      "en": "Albania",
+      "de": "Albanien",
+      "it": "Albania"
+    },
+    "capital": {
+      "pl": "Tirana",
+      "en": "Tirana",
+      "de": "Tirana",
+      "it": "Tirana"
+    },
+    "flag": "flags/al.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "albanian"
+    ],
+    "endonym": "Shqipëria",
+    "currency": [
+      "all"
+    ]
+  },
+  "dz": {
+    "name": {
+      "pl": "Algieria",
+      "en": "Algeria",
+      "de": "Algerien",
+      "it": "Algeria"
+    },
+    "capital": {
+      "pl": "Algier",
+      "en": "Algiers",
+      "de": "Algier",
+      "it": "Algeri"
+    },
+    "flag": "flags/dz.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "dzd"
+    ]
+  },
+  "ad": {
+    "name": {
+      "pl": "Andora",
+      "en": "Andorra",
+      "de": "Andorra",
+      "it": "Andorra"
+    },
+    "capital": {
+      "pl": "Andora",
+      "en": "Andorra la Vella",
+      "de": "Andorra la Vella",
+      "it": "Andorra la Vella"
+    },
+    "flag": "flags/ad.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "catalan"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "ao": {
+    "name": {
+      "pl": "Angola",
+      "en": "Angola",
+      "de": "Angola",
+      "it": "Angola"
+    },
+    "capital": {
+      "pl": "Luanda",
+      "en": "Luanda",
+      "de": "Luanda",
+      "it": "Luanda"
+    },
+    "flag": "flags/ao.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "aoa"
+    ]
+  },
+  "ag": {
+    "name": {
+      "pl": "Antigua i Barbuda",
+      "en": "Antigua and Barbuda",
+      "de": "Antigua und Barbuda",
+      "it": "Antigua e Barbuda"
+    },
+    "capital": {
+      "pl": "Saint John's",
+      "en": "Saint John's",
+      "de": "Saint John's",
+      "it": "Saint John's"
+    },
+    "flag": "flags/ag.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "ar": {
+    "name": {
+      "pl": "Argentyna",
+      "en": "Argentina",
+      "de": "Argentinien",
+      "it": "Argentina"
+    },
+    "capital": {
+      "pl": "Buenos Aires",
+      "en": "Buenos Aires",
+      "de": "Buenos Aires",
+      "it": "Buenos Aires"
+    },
+    "flag": "flags/ar.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "ars"
+    ]
+  },
+  "am": {
+    "name": {
+      "pl": "Armenia",
+      "en": "Armenia",
+      "de": "Armenien",
+      "it": "Armenia"
+    },
+    "capital": {
+      "pl": "Erywań",
+      "en": "Yerevan",
+      "de": "Jerewan",
+      "it": "Erevan"
+    },
+    "flag": "flags/am.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "armenian"
+    ],
+    "endonym": "Hayastan",
+    "currency": [
+      "amd"
+    ]
+  },
+  "au": {
+    "name": {
+      "pl": "Australia",
+      "en": "Australia",
+      "de": "Australien",
+      "it": "Australia"
+    },
+    "capital": {
+      "pl": "Canberra",
+      "en": "Canberra",
+      "de": "Canberra",
+      "it": "Canberra"
+    },
+    "flag": "flags/au.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "aud"
+    ]
+  },
+  "at": {
+    "name": {
+      "pl": "Austria",
+      "en": "Austria",
+      "de": "Österreich",
+      "it": "Austria"
+    },
+    "capital": {
+      "pl": "Wiedeń",
+      "en": "Vienna",
+      "de": "Wien",
+      "it": "Vienna"
+    },
+    "flag": "flags/at.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "german"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "az": {
+    "name": {
+      "pl": "Azerbejdżan",
+      "en": "Azerbaijan",
+      "de": "Aserbaidschan",
+      "it": "Azerbaigian"
+    },
+    "capital": {
+      "pl": "Baku",
+      "en": "Baku",
+      "de": "Baku",
+      "it": "Baku"
+    },
+    "flag": "flags/az.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "azerbaijani"
+    ],
+    "currency": [
+      "azn"
+    ]
+  },
+  "bs": {
+    "name": {
+      "pl": "Bahamy",
+      "en": "Bahamas",
+      "de": "Bahamas",
+      "it": "Bahamas"
+    },
+    "capital": {
+      "pl": "Nassau",
+      "en": "Nassau",
+      "de": "Nassau",
+      "it": "Nassau"
+    },
+    "flag": "flags/bs.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "bsd"
+    ]
+  },
+  "bh": {
+    "name": {
+      "pl": "Bahrajn",
+      "en": "Bahrain",
+      "de": "Bahrain",
+      "it": "Bahrein"
+    },
+    "capital": {
+      "pl": "Manama",
+      "en": "Manama",
+      "de": "Manama",
+      "it": "Manama"
+    },
+    "flag": "flags/bh.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "bhd"
+    ]
+  },
+  "bd": {
+    "name": {
+      "pl": "Bangladesz",
+      "en": "Bangladesh",
+      "de": "Bangladesch",
+      "it": "Bangladesh"
+    },
+    "capital": {
+      "pl": "Dhaka",
+      "en": "Dhaka",
+      "de": "Dhaka",
+      "it": "Dacca"
+    },
+    "flag": "flags/bd.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "bengali"
+    ],
+    "currency": [
+      "bdt"
+    ]
+  },
+  "bb": {
+    "name": {
+      "pl": "Barbados",
+      "en": "Barbados",
+      "de": "Barbados",
+      "it": "Barbados"
+    },
+    "capital": {
+      "pl": "Bridgetown",
+      "en": "Bridgetown",
+      "de": "Bridgetown",
+      "it": "Bridgetown"
+    },
+    "flag": "flags/bb.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "bbd"
+    ]
+  },
+  "by": {
+    "name": {
+      "pl": "Białoruś",
+      "en": "Belarus",
+      "de": "Belarus",
+      "it": "Bielorussia"
+    },
+    "capital": {
+      "pl": "Mińsk",
+      "en": "Minsk",
+      "de": "Minsk",
+      "it": "Minsk"
+    },
+    "flag": "flags/by.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "belarusian",
+      "russian"
+    ],
+    "currency": [
+      "byn"
+    ]
+  },
+  "be": {
+    "name": {
+      "pl": "Belgia",
+      "en": "Belgium",
+      "de": "Belgien",
+      "it": "Belgio"
+    },
+    "capital": {
+      "pl": "Bruksela",
+      "en": "Brussels",
+      "de": "Brüssel",
+      "it": "Bruxelles"
+    },
+    "flag": "flags/be.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "dutch",
+      "french",
+      "german"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "bz": {
+    "name": {
+      "pl": "Belize",
+      "en": "Belize",
+      "de": "Belize",
+      "it": "Belize"
+    },
+    "capital": {
+      "pl": "Belmopan",
+      "en": "Belmopan",
+      "de": "Belmopan",
+      "it": "Belmopan"
+    },
+    "flag": "flags/bz.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "bzd"
+    ]
+  },
+  "bj": {
+    "name": {
+      "pl": "Benin",
+      "en": "Benin",
+      "de": "Benin",
+      "it": "Benin"
+    },
+    "capital": {
+      "pl": "Porto-Novo",
+      "en": "Porto-Novo",
+      "de": "Porto-Novo",
+      "it": "Porto-Novo"
+    },
+    "flag": "flags/bj.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "bt": {
+    "name": {
+      "pl": "Bhutan",
+      "en": "Bhutan",
+      "de": "Bhutan",
+      "it": "Bhutan"
+    },
+    "capital": {
+      "pl": "Thimphu",
+      "en": "Thimphu",
+      "de": "Thimphu",
+      "it": "Thimphu"
+    },
+    "flag": "flags/bt.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "dzongkha"
+    ],
+    "endonym": "Druk Yul",
+    "currency": [
+      "btn",
+      "inr"
+    ]
+  },
+  "bo": {
+    "name": {
+      "pl": "Boliwia",
+      "en": "Bolivia",
+      "de": "Bolivien",
+      "it": "Bolivia"
+    },
+    "capital": {
+      "pl": "Sucre",
+      "en": "Sucre",
+      "de": "Sucre",
+      "it": "Sucre"
+    },
+    "flag": "flags/bo.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish",
+      "quechua",
+      "aymara"
+    ],
+    "currency": [
+      "bob"
+    ]
+  },
+  "ba": {
+    "name": {
+      "pl": "Bośnia i Hercegowina",
+      "en": "Bosnia and Herzegovina",
+      "de": "Bosnien und Herzegowina",
+      "it": "Bosnia ed Erzegovina"
+    },
+    "capital": {
+      "pl": "Sarajewo",
+      "en": "Sarajevo",
+      "de": "Sarajevo",
+      "it": "Sarajevo"
+    },
+    "flag": "flags/ba.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "bosnian",
+      "croatian",
+      "serbian"
+    ],
+    "currency": [
+      "bam"
+    ]
+  },
+  "bw": {
+    "name": {
+      "pl": "Botswana",
+      "en": "Botswana",
+      "de": "Botswana",
+      "it": "Botswana"
+    },
+    "capital": {
+      "pl": "Gaborone",
+      "en": "Gaborone",
+      "de": "Gaborone",
+      "it": "Gaborone"
+    },
+    "flag": "flags/bw.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "setswana"
+    ],
+    "currency": [
+      "bwp"
+    ]
+  },
+  "br": {
+    "name": {
+      "pl": "Brazylia",
+      "en": "Brazil",
+      "de": "Brasilien",
+      "it": "Brasile"
+    },
+    "capital": {
+      "pl": "Brasília",
+      "en": "Brasilia",
+      "de": "Brasília",
+      "it": "Brasilia"
+    },
+    "flag": "flags/br.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "brl"
+    ]
+  },
+  "bn": {
+    "name": {
+      "pl": "Brunei",
+      "en": "Brunei",
+      "de": "Brunei",
+      "it": "Brunei"
+    },
+    "capital": {
+      "pl": "Bandar Seri Begawan",
+      "en": "Bandar Seri Begawan",
+      "de": "Bandar Seri Begawan",
+      "it": "Bandar Seri Begawan"
+    },
+    "flag": "flags/bn.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "malay"
+    ],
+    "currency": [
+      "bnd"
+    ]
+  },
+  "bg": {
+    "name": {
+      "pl": "Bułgaria",
+      "en": "Bulgaria",
+      "de": "Bulgarien",
+      "it": "Bulgaria"
+    },
+    "capital": {
+      "pl": "Sofia",
+      "en": "Sofia",
+      "de": "Sofia",
+      "it": "Sofia"
+    },
+    "flag": "flags/bg.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "bulgarian"
+    ],
+    "currency": [
+      "bgn"
+    ]
+  },
+  "bf": {
+    "name": {
+      "pl": "Burkina Faso",
+      "en": "Burkina Faso",
+      "de": "Burkina Faso",
+      "it": "Burkina Faso"
+    },
+    "capital": {
+      "pl": "Wagadugu",
+      "en": "Ouagadougou",
+      "de": "Ouagadougou",
+      "it": "Ouagadougou"
+    },
+    "flag": "flags/bf.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "bi": {
+    "name": {
+      "pl": "Burundi",
+      "en": "Burundi",
+      "de": "Burundi",
+      "it": "Burundi"
+    },
+    "capital": {
+      "pl": "Gitega",
+      "en": "Gitega",
+      "de": "Gitega",
+      "it": "Gitega"
+    },
+    "flag": "flags/bi.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "kirundi",
+      "french"
+    ],
+    "currency": [
+      "bif"
+    ]
+  },
+  "kh": {
+    "name": {
+      "pl": "Kambodża",
+      "en": "Cambodia",
+      "de": "Kambodscha",
+      "it": "Cambogia"
+    },
+    "capital": {
+      "pl": "Phnom Penh",
+      "en": "Phnom Penh",
+      "de": "Phnom Penh",
+      "it": "Phnom Penh"
+    },
+    "flag": "flags/kh.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "khmer"
+    ],
+    "currency": [
+      "khr"
+    ]
+  },
+  "cm": {
+    "name": {
+      "pl": "Kamerun",
+      "en": "Cameroon",
+      "de": "Kamerun",
+      "it": "Camerun"
+    },
+    "capital": {
+      "pl": "Jaunde",
+      "en": "Yaoundé",
+      "de": "Yaoundé",
+      "it": "Yaoundé"
+    },
+    "flag": "flags/cm.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french",
+      "english"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "ca": {
+    "name": {
+      "pl": "Kanada",
+      "en": "Canada",
+      "de": "Kanada",
+      "it": "Canada"
+    },
+    "capital": {
+      "pl": "Ottawa",
+      "en": "Ottawa",
+      "de": "Ottawa",
+      "it": "Ottawa"
+    },
+    "flag": "flags/ca.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "currency": [
+      "cad"
+    ]
+  },
+  "cv": {
+    "name": {
+      "pl": "Republika Zielonego Przylądka",
+      "en": "Cape Verde",
+      "de": "Kap Verde",
+      "it": "Capo Verde"
+    },
+    "capital": {
+      "pl": "Praia",
+      "en": "Praia",
+      "de": "Praia",
+      "it": "Praia"
+    },
+    "flag": "flags/cv.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "cve"
+    ]
+  },
+  "cf": {
+    "name": {
+      "pl": "Republika Środkowoafrykańska",
+      "en": "Central African Republic",
+      "de": "Zentralafrikanische Republik",
+      "it": "Repubblica Centrafricana"
+    },
+    "capital": {
+      "pl": "Bangi",
+      "en": "Bangui",
+      "de": "Bangui",
+      "it": "Bangui"
+    },
+    "flag": "flags/cf.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french",
+      "sango"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "td": {
+    "name": {
+      "pl": "Czad",
+      "en": "Chad",
+      "de": "Tschad",
+      "it": "Ciad"
+    },
+    "capital": {
+      "pl": "Ndżamena",
+      "en": "N'Djamena",
+      "de": "N'Djamena",
+      "it": "N'Djamena"
+    },
+    "flag": "flags/td.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french",
+      "arabic"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "cl": {
+    "name": {
+      "pl": "Chile",
+      "en": "Chile",
+      "de": "Chile",
+      "it": "Cile"
+    },
+    "capital": {
+      "pl": "Santiago",
+      "en": "Santiago",
+      "de": "Santiago de Chile",
+      "it": "Santiago del Cile"
+    },
+    "flag": "flags/cl.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "clp"
+    ]
+  },
+  "cn": {
+    "name": {
+      "pl": "Chiny",
+      "en": "China",
+      "de": "China",
+      "it": "Cina"
+    },
+    "capital": {
+      "pl": "Pekin",
+      "en": "Beijing",
+      "de": "Peking",
+      "it": "Pechino"
+    },
+    "flag": "flags/cn.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "endonym": "Zhongguo",
+    "currency": [
+      "cny"
+    ]
+  },
+  "co": {
+    "name": {
+      "pl": "Kolumbia",
+      "en": "Colombia",
+      "de": "Kolumbien",
+      "it": "Colombia"
+    },
+    "capital": {
+      "pl": "Bogota",
+      "en": "Bogotá",
+      "de": "Bogotá",
+      "it": "Bogotà"
+    },
+    "flag": "flags/co.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "cop"
+    ]
+  },
+  "km": {
+    "name": {
+      "pl": "Komory",
+      "en": "Comoros",
+      "de": "Komoren",
+      "it": "Comore"
+    },
+    "capital": {
+      "pl": "Moroni",
+      "en": "Moroni",
+      "de": "Moroni",
+      "it": "Moroni"
+    },
+    "flag": "flags/km.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "comorian",
+      "french",
+      "arabic"
+    ],
+    "currency": [
+      "kmf"
+    ]
+  },
+  "cg": {
+    "name": {
+      "pl": "Kongo",
+      "en": "Republic of the Congo",
+      "de": "Republik Kongo",
+      "it": "Repubblica del Congo"
+    },
+    "capital": {
+      "pl": "Brazzaville",
+      "en": "Brazzaville",
+      "de": "Brazzaville",
+      "it": "Brazzaville"
+    },
+    "flag": "flags/cg.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "cd": {
+    "name": {
+      "pl": "Demokratyczna Republika Konga",
+      "en": "DR Congo",
+      "de": "Demokratische Republik Kongo",
+      "it": "Repubblica Democratica del Congo"
+    },
+    "capital": {
+      "pl": "Kinszasa",
+      "en": "Kinshasa",
+      "de": "Kinshasa",
+      "it": "Kinshasa"
+    },
+    "flag": "flags/cd.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french",
+      "lingala",
+      "swahili",
+      "kikongo",
+      "tshiluba"
+    ],
+    "languages_note": {
+      "pl": "ponad 200 języków ojczystych",
+      "en": "over 200 native languages",
+      "de": "über 200 einheimische Sprachen",
+      "it": "oltre 200 lingue locali"
+    },
+    "currency": [
+      "cdf"
+    ]
+  },
+  "cr": {
+    "name": {
+      "pl": "Kostaryka",
+      "en": "Costa Rica",
+      "de": "Costa Rica",
+      "it": "Costa Rica"
+    },
+    "capital": {
+      "pl": "San José",
+      "en": "San José",
+      "de": "San José",
+      "it": "San José"
+    },
+    "flag": "flags/cr.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "crc"
+    ]
+  },
+  "hr": {
+    "name": {
+      "pl": "Chorwacja",
+      "en": "Croatia",
+      "de": "Kroatien",
+      "it": "Croazia"
+    },
+    "capital": {
+      "pl": "Zagrzeb",
+      "en": "Zagreb",
+      "de": "Zagreb",
+      "it": "Zagabria"
+    },
+    "flag": "flags/hr.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "croatian"
+    ],
+    "endonym": "Hrvatska",
+    "currency": [
+      "eur"
+    ]
+  },
+  "cu": {
+    "name": {
+      "pl": "Kuba",
+      "en": "Cuba",
+      "de": "Kuba",
+      "it": "Cuba"
+    },
+    "capital": {
+      "pl": "Hawana",
+      "en": "Havana",
+      "de": "Havanna",
+      "it": "L'Avana"
+    },
+    "flag": "flags/cu.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "cup"
+    ]
+  },
+  "cy": {
+    "name": {
+      "pl": "Cypr",
+      "en": "Cyprus",
+      "de": "Zypern",
+      "it": "Cipro"
+    },
+    "capital": {
+      "pl": "Nikozja",
+      "en": "Nicosia",
+      "de": "Nikosia",
+      "it": "Nicosia"
+    },
+    "flag": "flags/cy.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "greek",
+      "turkish"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "cz": {
+    "name": {
+      "pl": "Czechy",
+      "en": "Czechia",
+      "de": "Tschechien",
+      "it": "Cechia"
+    },
+    "capital": {
+      "pl": "Praga",
+      "en": "Prague",
+      "de": "Prag",
+      "it": "Praga"
+    },
+    "flag": "flags/cz.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "endonym": "Česko",
+    "currency": [
+      "czk"
+    ]
+  },
+  "dk": {
+    "name": {
+      "pl": "Dania",
+      "en": "Denmark",
+      "de": "Dänemark",
+      "it": "Danimarca"
+    },
+    "capital": {
+      "pl": "Kopenhaga",
+      "en": "Copenhagen",
+      "de": "Kopenhagen",
+      "it": "Copenaghen"
+    },
+    "flag": "flags/dk.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "currency": [
+      "dkk"
+    ]
+  },
+  "dj": {
+    "name": {
+      "pl": "Dżibuti",
+      "en": "Djibouti",
+      "de": "Dschibuti",
+      "it": "Gibuti"
+    },
+    "capital": {
+      "pl": "Dżibuti",
+      "en": "Djibouti",
+      "de": "Dschibuti",
+      "it": "Gibuti"
+    },
+    "flag": "flags/dj.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french",
+      "arabic"
+    ],
+    "currency": [
+      "djf"
+    ]
+  },
+  "dm": {
+    "name": {
+      "pl": "Dominika",
+      "en": "Dominica",
+      "de": "Dominica",
+      "it": "Dominica"
+    },
+    "capital": {
+      "pl": "Roseau",
+      "en": "Roseau",
+      "de": "Roseau",
+      "it": "Roseau"
+    },
+    "flag": "flags/dm.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "do": {
+    "name": {
+      "pl": "Dominikana",
+      "en": "Dominican Republic",
+      "de": "Dominikanische Republik",
+      "it": "Repubblica Dominicana"
+    },
+    "capital": {
+      "pl": "Santo Domingo",
+      "en": "Santo Domingo",
+      "de": "Santo Domingo",
+      "it": "Santo Domingo"
+    },
+    "flag": "flags/do.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "dop"
+    ]
+  },
+  "ec": {
+    "name": {
+      "pl": "Ekwador",
+      "en": "Ecuador",
+      "de": "Ecuador",
+      "it": "Ecuador"
+    },
+    "capital": {
+      "pl": "Quito",
+      "en": "Quito",
+      "de": "Quito",
+      "it": "Quito"
+    },
+    "flag": "flags/ec.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "eg": {
+    "name": {
+      "pl": "Egipt",
+      "en": "Egypt",
+      "de": "Ägypten",
+      "it": "Egitto"
+    },
+    "capital": {
+      "pl": "Kair",
+      "en": "Cairo",
+      "de": "Kairo",
+      "it": "Il Cairo"
+    },
+    "flag": "flags/eg.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "endonym": "Misr",
+    "currency": [
+      "egp"
+    ]
+  },
+  "sv": {
+    "name": {
+      "pl": "Salwador",
+      "en": "El Salvador",
+      "de": "El Salvador",
+      "it": "El Salvador"
+    },
+    "capital": {
+      "pl": "San Salvador",
+      "en": "San Salvador",
+      "de": "San Salvador",
+      "it": "San Salvador"
+    },
+    "flag": "flags/sv.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "ee": {
+    "name": {
+      "pl": "Estonia",
+      "en": "Estonia",
+      "de": "Estland",
+      "it": "Estonia"
+    },
+    "capital": {
+      "pl": "Tallinn",
+      "en": "Tallinn",
+      "de": "Tallinn",
+      "it": "Tallinn"
+    },
+    "flag": "flags/ee.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "estonian"
+    ],
+    "endonym": "Eesti",
+    "currency": [
+      "eur"
+    ]
+  },
+  "et": {
+    "name": {
+      "pl": "Etiopia",
+      "en": "Ethiopia",
+      "de": "Äthiopien",
+      "it": "Etiopia"
+    },
+    "capital": {
+      "pl": "Addis Abeba",
+      "en": "Addis Ababa",
+      "de": "Addis Abeba",
+      "it": "Addis Abeba"
+    },
+    "flag": "flags/et.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "amharic",
+      "oromo",
+      "somali",
+      "tigrinya"
+    ],
+    "languages_note": {
+      "pl": "kilkadziesiąt języków narodowych",
+      "en": "dozens of national languages",
+      "de": "Dutzende Nationalsprachen",
+      "it": "decine di lingue nazionali"
+    },
+    "currency": [
+      "etb"
+    ]
+  },
+  "fi": {
+    "name": {
+      "pl": "Finlandia",
+      "en": "Finland",
+      "de": "Finnland",
+      "it": "Finlandia"
+    },
+    "capital": {
+      "pl": "Helsinki",
+      "en": "Helsinki",
+      "de": "Helsinki",
+      "it": "Helsinki"
+    },
+    "flag": "flags/fi.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "finnish",
+      "swedish"
+    ],
+    "endonym": "Suomi",
+    "currency": [
+      "eur"
+    ]
+  },
+  "fr": {
+    "name": {
+      "pl": "Francja",
+      "en": "France",
+      "de": "Frankreich",
+      "it": "Francia"
+    },
+    "capital": {
+      "pl": "Paryż",
+      "en": "Paris",
+      "de": "Paris",
+      "it": "Parigi"
+    },
+    "flag": "flags/fr.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "ga": {
+    "name": {
+      "pl": "Gabon",
+      "en": "Gabon",
+      "de": "Gabun",
+      "it": "Gabon"
+    },
+    "capital": {
+      "pl": "Libreville",
+      "en": "Libreville",
+      "de": "Libreville",
+      "it": "Libreville"
+    },
+    "flag": "flags/ga.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "gm": {
+    "name": {
+      "pl": "Gambia",
+      "en": "Gambia",
+      "de": "Gambia",
+      "it": "Gambia"
+    },
+    "capital": {
+      "pl": "Banjul",
+      "en": "Banjul",
+      "de": "Banjul",
+      "it": "Banjul"
+    },
+    "flag": "flags/gm.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "gmd"
+    ]
+  },
+  "ge": {
+    "name": {
+      "pl": "Gruzja",
+      "en": "Georgia",
+      "de": "Georgien",
+      "it": "Georgia"
+    },
+    "capital": {
+      "pl": "Tbilisi",
+      "en": "Tbilisi",
+      "de": "Tiflis",
+      "it": "Tbilisi"
+    },
+    "flag": "flags/ge.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "georgian"
+    ],
+    "endonym": "Sakartvelo",
+    "currency": [
+      "gel"
+    ]
+  },
+  "de": {
+    "name": {
+      "pl": "Niemcy",
+      "en": "Germany",
+      "de": "Deutschland",
+      "it": "Germania"
+    },
+    "capital": {
+      "pl": "Berlin",
+      "en": "Berlin",
+      "de": "Berlin",
+      "it": "Berlino"
+    },
+    "flag": "flags/de.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "german"
+    ],
+    "endonym": "Deutschland",
+    "currency": [
+      "eur"
+    ]
+  },
+  "gh": {
+    "name": {
+      "pl": "Ghana",
+      "en": "Ghana",
+      "de": "Ghana",
+      "it": "Ghana"
+    },
+    "capital": {
+      "pl": "Akra",
+      "en": "Accra",
+      "de": "Accra",
+      "it": "Accra"
+    },
+    "flag": "flags/gh.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "ghs"
+    ]
+  },
+  "gr": {
+    "name": {
+      "pl": "Grecja",
+      "en": "Greece",
+      "de": "Griechenland",
+      "it": "Grecia"
+    },
+    "capital": {
+      "pl": "Ateny",
+      "en": "Athens",
+      "de": "Athen",
+      "it": "Atene"
+    },
+    "flag": "flags/gr.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "endonym": "Ellada",
+    "currency": [
+      "eur"
+    ]
+  },
+  "gd": {
+    "name": {
+      "pl": "Grenada",
+      "en": "Grenada",
+      "de": "Grenada",
+      "it": "Grenada"
+    },
+    "capital": {
+      "pl": "Saint George's",
+      "en": "Saint George's",
+      "de": "Saint George's",
+      "it": "Saint George's"
+    },
+    "flag": "flags/gd.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "gt": {
+    "name": {
+      "pl": "Gwatemala",
+      "en": "Guatemala",
+      "de": "Guatemala",
+      "it": "Guatemala"
+    },
+    "capital": {
+      "pl": "Gwatemala",
+      "en": "Guatemala City",
+      "de": "Guatemala-Stadt",
+      "it": "Città del Guatemala"
+    },
+    "flag": "flags/gt.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "gtq"
+    ]
+  },
+  "gn": {
+    "name": {
+      "pl": "Gwinea",
+      "en": "Guinea",
+      "de": "Guinea",
+      "it": "Guinea"
+    },
+    "capital": {
+      "pl": "Konakry",
+      "en": "Conakry",
+      "de": "Conakry",
+      "it": "Conakry"
+    },
+    "flag": "flags/gn.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "gnf"
+    ]
+  },
+  "gw": {
+    "name": {
+      "pl": "Gwinea Bissau",
+      "en": "Guinea-Bissau",
+      "de": "Guinea-Bissau",
+      "it": "Guinea-Bissau"
+    },
+    "capital": {
+      "pl": "Bissau",
+      "en": "Bissau",
+      "de": "Bissau",
+      "it": "Bissau"
+    },
+    "flag": "flags/gw.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "gy": {
+    "name": {
+      "pl": "Gujana",
+      "en": "Guyana",
+      "de": "Guyana",
+      "it": "Guyana"
+    },
+    "capital": {
+      "pl": "Georgetown",
+      "en": "Georgetown",
+      "de": "Georgetown",
+      "it": "Georgetown"
+    },
+    "flag": "flags/gy.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "gyd"
+    ]
+  },
+  "ht": {
+    "name": {
+      "pl": "Haiti",
+      "en": "Haiti",
+      "de": "Haiti",
+      "it": "Haiti"
+    },
+    "capital": {
+      "pl": "Port-au-Prince",
+      "en": "Port-au-Prince",
+      "de": "Port-au-Prince",
+      "it": "Port-au-Prince"
+    },
+    "flag": "flags/ht.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "french",
+      "haitian_creole"
+    ],
+    "currency": [
+      "htg"
+    ]
+  },
+  "hn": {
+    "name": {
+      "pl": "Honduras",
+      "en": "Honduras",
+      "de": "Honduras",
+      "it": "Honduras"
+    },
+    "capital": {
+      "pl": "Tegucigalpa",
+      "en": "Tegucigalpa",
+      "de": "Tegucigalpa",
+      "it": "Tegucigalpa"
+    },
+    "flag": "flags/hn.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "hnl"
+    ]
+  },
+  "hu": {
+    "name": {
+      "pl": "Węgry",
+      "en": "Hungary",
+      "de": "Ungarn",
+      "it": "Ungheria"
+    },
+    "capital": {
+      "pl": "Budapeszt",
+      "en": "Budapest",
+      "de": "Budapest",
+      "it": "Budapest"
+    },
+    "flag": "flags/hu.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "hungarian"
+    ],
+    "endonym": "Magyarország",
+    "currency": [
+      "huf"
+    ]
+  },
+  "is": {
+    "name": {
+      "pl": "Islandia",
+      "en": "Iceland",
+      "de": "Island",
+      "it": "Islanda"
+    },
+    "capital": {
+      "pl": "Reykjavík",
+      "en": "Reykjavik",
+      "de": "Reykjavík",
+      "it": "Reykjavík"
+    },
+    "flag": "flags/is.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "icelandic"
+    ],
+    "currency": [
+      "isk"
+    ]
+  },
+  "in": {
+    "name": {
+      "pl": "Indie",
+      "en": "India",
+      "de": "Indien",
+      "it": "India"
+    },
+    "capital": {
+      "pl": "Nowe Delhi",
+      "en": "New Delhi",
+      "de": "Neu-Delhi",
+      "it": "Nuova Delhi"
+    },
+    "flag": "flags/in.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "hindi",
+      "bengali",
+      "marathi",
+      "telugu",
+      "tamil",
+      "gujarati",
+      "urdu",
+      "english"
+    ],
+    "endonym": "Bharat",
+    "languages_note": {
+      "pl": "+14 innych",
+      "en": "+14 more",
+      "de": "+14 weitere",
+      "it": "+14 altre"
+    },
+    "currency": [
+      "inr"
+    ]
+  },
+  "id": {
+    "name": {
+      "pl": "Indonezja",
+      "en": "Indonesia",
+      "de": "Indonesien",
+      "it": "Indonesia"
+    },
+    "capital": {
+      "pl": "Dżakarta",
+      "en": "Jakarta",
+      "de": "Jakarta",
+      "it": "Giacarta"
+    },
+    "flag": "flags/id.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "indonesian"
+    ],
+    "currency": [
+      "idr"
+    ]
+  },
+  "ir": {
+    "name": {
+      "pl": "Iran",
+      "en": "Iran",
+      "de": "Iran",
+      "it": "Iran"
+    },
+    "capital": {
+      "pl": "Teheran",
+      "en": "Tehran",
+      "de": "Teheran",
+      "it": "Teheran"
+    },
+    "flag": "flags/ir.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "persian"
+    ],
+    "currency": [
+      "irr"
+    ]
+  },
+  "iq": {
+    "name": {
+      "pl": "Irak",
+      "en": "Iraq",
+      "de": "Irak",
+      "it": "Iraq"
+    },
+    "capital": {
+      "pl": "Bagdad",
+      "en": "Baghdad",
+      "de": "Bagdad",
+      "it": "Baghdad"
+    },
+    "flag": "flags/iq.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic",
+      "kurdish"
+    ],
+    "currency": [
+      "iqd"
+    ]
+  },
+  "ie": {
+    "name": {
+      "pl": "Irlandia",
+      "en": "Ireland",
+      "de": "Irland",
+      "it": "Irlanda"
+    },
+    "capital": {
+      "pl": "Dublin",
+      "en": "Dublin",
+      "de": "Dublin",
+      "it": "Dublino"
+    },
+    "flag": "flags/ie.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "irish",
+      "english"
+    ],
+    "endonym": "Éire",
+    "currency": [
+      "eur"
+    ]
+  },
+  "il": {
+    "name": {
+      "pl": "Izrael",
+      "en": "Israel",
+      "de": "Israel",
+      "it": "Israele"
+    },
+    "capital": {
+      "pl": "Jerozolima",
+      "en": "Jerusalem",
+      "de": "Jerusalem",
+      "it": "Gerusalemme"
+    },
+    "flag": "flags/il.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "hebrew",
+      "arabic"
+    ],
+    "currency": [
+      "ils"
+    ]
+  },
+  "it": {
+    "name": {
+      "pl": "Włochy",
+      "en": "Italy",
+      "de": "Italien",
+      "it": "Italia"
+    },
+    "capital": {
+      "pl": "Rzym",
+      "en": "Rome",
+      "de": "Rom",
+      "it": "Roma"
+    },
+    "flag": "flags/it.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "italian"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "jm": {
+    "name": {
+      "pl": "Jamajka",
+      "en": "Jamaica",
+      "de": "Jamaika",
+      "it": "Giamaica"
+    },
+    "capital": {
+      "pl": "Kingston",
+      "en": "Kingston",
+      "de": "Kingston",
+      "it": "Kingston"
+    },
+    "flag": "flags/jm.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "jmd"
+    ]
+  },
+  "jp": {
+    "name": {
+      "pl": "Japonia",
+      "en": "Japan",
+      "de": "Japan",
+      "it": "Giappone"
+    },
+    "capital": {
+      "pl": "Tokio",
+      "en": "Tokyo",
+      "de": "Tokio",
+      "it": "Tokyo"
+    },
+    "flag": "flags/jp.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "endonym": "Nippon",
+    "currency": [
+      "jpy"
+    ]
+  },
+  "jo": {
+    "name": {
+      "pl": "Jordania",
+      "en": "Jordan",
+      "de": "Jordanien",
+      "it": "Giordania"
+    },
+    "capital": {
+      "pl": "Amman",
+      "en": "Amman",
+      "de": "Amman",
+      "it": "Amman"
+    },
+    "flag": "flags/jo.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "jod"
+    ]
+  },
+  "kz": {
+    "name": {
+      "pl": "Kazachstan",
+      "en": "Kazakhstan",
+      "de": "Kasachstan",
+      "it": "Kazakistan"
+    },
+    "capital": {
+      "pl": "Astana",
+      "en": "Astana",
+      "de": "Astana",
+      "it": "Astana"
+    },
+    "flag": "flags/kz.png",
+    "continents": [
+      "europe",
+      "asia"
+    ],
+    "languages": [
+      "kazakh",
+      "russian"
+    ],
+    "currency": [
+      "kzt"
+    ]
+  },
+  "ke": {
+    "name": {
+      "pl": "Kenia",
+      "en": "Kenya",
+      "de": "Kenia",
+      "it": "Kenya"
+    },
+    "capital": {
+      "pl": "Nairobi",
+      "en": "Nairobi",
+      "de": "Nairobi",
+      "it": "Nairobi"
+    },
+    "flag": "flags/ke.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "swahili",
+      "english"
+    ],
+    "currency": [
+      "kes"
+    ]
+  },
+  "ki": {
+    "name": {
+      "pl": "Kiribati",
+      "en": "Kiribati",
+      "de": "Kiribati",
+      "it": "Kiribati"
+    },
+    "capital": {
+      "pl": "Tarawa Południowa",
+      "en": "South Tarawa",
+      "de": "Süd-Tarawa",
+      "it": "Tarawa Sud"
+    },
+    "flag": "flags/ki.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "gilbertese"
+    ],
+    "currency": [
+      "aud",
+      "kid"
+    ]
+  },
+  "kw": {
+    "name": {
+      "pl": "Kuwejt",
+      "en": "Kuwait",
+      "de": "Kuwait",
+      "it": "Kuwait"
+    },
+    "capital": {
+      "pl": "Kuwejt",
+      "en": "Kuwait City",
+      "de": "Kuwait-Stadt",
+      "it": "Kuwait City"
+    },
+    "flag": "flags/kw.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "kwd"
+    ]
+  },
+  "kg": {
+    "name": {
+      "pl": "Kirgistan",
+      "en": "Kyrgyzstan",
+      "de": "Kirgisistan",
+      "it": "Kirghizistan"
+    },
+    "capital": {
+      "pl": "Biszkek",
+      "en": "Bishkek",
+      "de": "Bischkek",
+      "it": "Biškek"
+    },
+    "flag": "flags/kg.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "kyrgyz",
+      "russian"
+    ],
+    "currency": [
+      "kgs"
+    ]
+  },
+  "la": {
+    "name": {
+      "pl": "Laos",
+      "en": "Laos",
+      "de": "Laos",
+      "it": "Laos"
+    },
+    "capital": {
+      "pl": "Wientian",
+      "en": "Vientiane",
+      "de": "Vientiane",
+      "it": "Vientiane"
+    },
+    "flag": "flags/la.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "lao"
+    ],
+    "currency": [
+      "lak"
+    ]
+  },
+  "lv": {
+    "name": {
+      "pl": "Łotwa",
+      "en": "Latvia",
+      "de": "Lettland",
+      "it": "Lettonia"
+    },
+    "capital": {
+      "pl": "Ryga",
+      "en": "Riga",
+      "de": "Riga",
+      "it": "Riga"
+    },
+    "flag": "flags/lv.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "latvian"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "lb": {
+    "name": {
+      "pl": "Liban",
+      "en": "Lebanon",
+      "de": "Libanon",
+      "it": "Libano"
+    },
+    "capital": {
+      "pl": "Bejrut",
+      "en": "Beirut",
+      "de": "Beirut",
+      "it": "Beirut"
+    },
+    "flag": "flags/lb.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "lbp"
+    ]
+  },
+  "ls": {
+    "name": {
+      "pl": "Lesotho",
+      "en": "Lesotho",
+      "de": "Lesotho",
+      "it": "Lesotho"
+    },
+    "capital": {
+      "pl": "Maseru",
+      "en": "Maseru",
+      "de": "Maseru",
+      "it": "Maseru"
+    },
+    "flag": "flags/ls.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "sesotho",
+      "english"
+    ],
+    "currency": [
+      "lsl",
+      "zar"
+    ]
+  },
+  "lr": {
+    "name": {
+      "pl": "Liberia",
+      "en": "Liberia",
+      "de": "Liberia",
+      "it": "Liberia"
+    },
+    "capital": {
+      "pl": "Monrovia",
+      "en": "Monrovia",
+      "de": "Monrovia",
+      "it": "Monrovia"
+    },
+    "flag": "flags/lr.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "lrd"
+    ]
+  },
+  "ly": {
+    "name": {
+      "pl": "Libia",
+      "en": "Libya",
+      "de": "Libyen",
+      "it": "Libia"
+    },
+    "capital": {
+      "pl": "Trypolis",
+      "en": "Tripoli",
+      "de": "Tripolis",
+      "it": "Tripoli"
+    },
+    "flag": "flags/ly.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "lyd"
+    ]
+  },
+  "li": {
+    "name": {
+      "pl": "Liechtenstein",
+      "en": "Liechtenstein",
+      "de": "Liechtenstein",
+      "it": "Liechtenstein"
+    },
+    "capital": {
+      "pl": "Vaduz",
+      "en": "Vaduz",
+      "de": "Vaduz",
+      "it": "Vaduz"
+    },
+    "flag": "flags/li.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "german"
+    ],
+    "currency": [
+      "chf"
+    ]
+  },
+  "lt": {
+    "name": {
+      "pl": "Litwa",
+      "en": "Lithuania",
+      "de": "Litauen",
+      "it": "Lituania"
+    },
+    "capital": {
+      "pl": "Wilno",
+      "en": "Vilnius",
+      "de": "Vilnius",
+      "it": "Vilnius"
+    },
+    "flag": "flags/lt.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "lithuanian"
+    ],
+    "endonym": "Lietuva",
+    "currency": [
+      "eur"
+    ]
+  },
+  "lu": {
+    "name": {
+      "pl": "Luksemburg",
+      "en": "Luxembourg",
+      "de": "Luxemburg",
+      "it": "Lussemburgo"
+    },
+    "capital": {
+      "pl": "Luksemburg",
+      "en": "Luxembourg",
+      "de": "Luxemburg",
+      "it": "Lussemburgo"
+    },
+    "flag": "flags/lu.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "luxembourgish",
+      "french",
+      "german"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "mg": {
+    "name": {
+      "pl": "Madagaskar",
+      "en": "Madagascar",
+      "de": "Madagaskar",
+      "it": "Madagascar"
+    },
+    "capital": {
+      "pl": "Antananarywa",
+      "en": "Antananarivo",
+      "de": "Antananarivo",
+      "it": "Antananarivo"
+    },
+    "flag": "flags/mg.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "malagasy",
+      "french"
+    ],
+    "currency": [
+      "mga"
+    ]
+  },
+  "mw": {
+    "name": {
+      "pl": "Malawi",
+      "en": "Malawi",
+      "de": "Malawi",
+      "it": "Malawi"
+    },
+    "capital": {
+      "pl": "Lilongwe",
+      "en": "Lilongwe",
+      "de": "Lilongwe",
+      "it": "Lilongwe"
+    },
+    "flag": "flags/mw.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "chichewa"
+    ],
+    "currency": [
+      "mwk"
+    ]
+  },
+  "my": {
+    "name": {
+      "pl": "Malezja",
+      "en": "Malaysia",
+      "de": "Malaysia",
+      "it": "Malaysia"
+    },
+    "capital": {
+      "pl": "Kuala Lumpur",
+      "en": "Kuala Lumpur",
+      "de": "Kuala Lumpur",
+      "it": "Kuala Lumpur"
+    },
+    "flag": "flags/my.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "malay",
+      "english"
+    ],
+    "currency": [
+      "myr"
+    ]
+  },
+  "mv": {
+    "name": {
+      "pl": "Malediwy",
+      "en": "Maldives",
+      "de": "Malediven",
+      "it": "Maldive"
+    },
+    "capital": {
+      "pl": "Male",
+      "en": "Malé",
+      "de": "Malé",
+      "it": "Malé"
+    },
+    "flag": "flags/mv.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "dhivehi"
+    ],
+    "currency": [
+      "mvr"
+    ]
+  },
+  "ml": {
+    "name": {
+      "pl": "Mali",
+      "en": "Mali",
+      "de": "Mali",
+      "it": "Mali"
+    },
+    "capital": {
+      "pl": "Bamako",
+      "en": "Bamako",
+      "de": "Bamako",
+      "it": "Bamako"
+    },
+    "flag": "flags/ml.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "mt": {
+    "name": {
+      "pl": "Malta",
+      "en": "Malta",
+      "de": "Malta",
+      "it": "Malta"
+    },
+    "capital": {
+      "pl": "Valletta",
+      "en": "Valletta",
+      "de": "Valletta",
+      "it": "La Valletta"
+    },
+    "flag": "flags/mt.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "maltese",
+      "english"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "mh": {
+    "name": {
+      "pl": "Wyspy Marshalla",
+      "en": "Marshall Islands",
+      "de": "Marshallinseln",
+      "it": "Isole Marshall"
+    },
+    "capital": {
+      "pl": "Majuro",
+      "en": "Majuro",
+      "de": "Majuro",
+      "it": "Majuro"
+    },
+    "flag": "flags/mh.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "marshallese"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "mr": {
+    "name": {
+      "pl": "Mauretania",
+      "en": "Mauritania",
+      "de": "Mauretanien",
+      "it": "Mauritania"
+    },
+    "capital": {
+      "pl": "Nawakszut",
+      "en": "Nouakchott",
+      "de": "Nouakchott",
+      "it": "Nouakchott"
+    },
+    "flag": "flags/mr.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "mru"
+    ]
+  },
+  "mu": {
+    "name": {
+      "pl": "Mauritius",
+      "en": "Mauritius",
+      "de": "Mauritius",
+      "it": "Mauritius"
+    },
+    "capital": {
+      "pl": "Port Louis",
+      "en": "Port Louis",
+      "de": "Port Louis",
+      "it": "Port Louis"
+    },
+    "flag": "flags/mu.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "currency": [
+      "mur"
+    ]
+  },
+  "mx": {
+    "name": {
+      "pl": "Meksyk",
+      "en": "Mexico",
+      "de": "Mexiko",
+      "it": "Messico"
+    },
+    "capital": {
+      "pl": "Meksyk",
+      "en": "Mexico City",
+      "de": "Mexiko-Stadt",
+      "it": "Città del Messico"
+    },
+    "flag": "flags/mx.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "mxn"
+    ]
+  },
+  "fm": {
+    "name": {
+      "pl": "Mikronezja",
+      "en": "Micronesia",
+      "de": "Mikronesien",
+      "it": "Micronesia"
+    },
+    "capital": {
+      "pl": "Palikir",
+      "en": "Palikir",
+      "de": "Palikir",
+      "it": "Palikir"
+    },
+    "flag": "flags/fm.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "md": {
+    "name": {
+      "pl": "Mołdawia",
+      "en": "Moldova",
+      "de": "Moldau",
+      "it": "Moldavia"
+    },
+    "capital": {
+      "pl": "Kiszyniów",
+      "en": "Chisinau",
+      "de": "Chișinău",
+      "it": "Chișinău"
+    },
+    "flag": "flags/md.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "romanian"
+    ],
+    "currency": [
+      "mdl"
+    ]
+  },
+  "mc": {
+    "name": {
+      "pl": "Monako",
+      "en": "Monaco",
+      "de": "Monaco",
+      "it": "Monaco"
+    },
+    "capital": {
+      "pl": "Monako",
+      "en": "Monaco",
+      "de": "Monaco",
+      "it": "Monaco"
+    },
+    "flag": "flags/mc.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "mn": {
+    "name": {
+      "pl": "Mongolia",
+      "en": "Mongolia",
+      "de": "Mongolei",
+      "it": "Mongolia"
+    },
+    "capital": {
+      "pl": "Ułan Bator",
+      "en": "Ulaanbaatar",
+      "de": "Ulaanbaatar",
+      "it": "Ulan Bator"
+    },
+    "flag": "flags/mn.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "mongolian"
+    ],
+    "currency": [
+      "mnt"
+    ]
+  },
+  "me": {
+    "name": {
+      "pl": "Czarnogóra",
+      "en": "Montenegro",
+      "de": "Montenegro",
+      "it": "Montenegro"
+    },
+    "capital": {
+      "pl": "Podgorica",
+      "en": "Podgorica",
+      "de": "Podgorica",
+      "it": "Podgorica"
+    },
+    "flag": "flags/me.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "montenegrin"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "ma": {
+    "name": {
+      "pl": "Maroko",
+      "en": "Morocco",
+      "de": "Marokko",
+      "it": "Marocco"
+    },
+    "capital": {
+      "pl": "Rabat",
+      "en": "Rabat",
+      "de": "Rabat",
+      "it": "Rabat"
+    },
+    "flag": "flags/ma.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic",
+      "berber"
+    ],
+    "endonym": "Al-Maghrib",
+    "currency": [
+      "mad"
+    ]
+  },
+  "mz": {
+    "name": {
+      "pl": "Mozambik",
+      "en": "Mozambique",
+      "de": "Mosambik",
+      "it": "Mozambico"
+    },
+    "capital": {
+      "pl": "Maputo",
+      "en": "Maputo",
+      "de": "Maputo",
+      "it": "Maputo"
+    },
+    "flag": "flags/mz.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "mzn"
+    ]
+  },
+  "mm": {
+    "name": {
+      "pl": "Mjanma",
+      "en": "Myanmar",
+      "de": "Myanmar",
+      "it": "Myanmar"
+    },
+    "capital": {
+      "pl": "Naypyidaw",
+      "en": "Naypyidaw",
+      "de": "Naypyidaw",
+      "it": "Naypyidaw"
+    },
+    "flag": "flags/mm.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "burmese"
+    ],
+    "currency": [
+      "mmk"
+    ]
+  },
+  "na": {
+    "name": {
+      "pl": "Namibia",
+      "en": "Namibia",
+      "de": "Namibia",
+      "it": "Namibia"
+    },
+    "capital": {
+      "pl": "Windhuk",
+      "en": "Windhoek",
+      "de": "Windhuk",
+      "it": "Windhoek"
+    },
+    "flag": "flags/na.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "nad",
+      "zar"
+    ]
+  },
+  "nr": {
+    "name": {
+      "pl": "Nauru",
+      "en": "Nauru",
+      "de": "Nauru",
+      "it": "Nauru"
+    },
+    "capital": {
+      "pl": "Yaren",
+      "en": "Yaren",
+      "de": "Yaren",
+      "it": "Yaren"
+    },
+    "flag": "flags/nr.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "nauruan",
+      "english"
+    ],
+    "currency": [
+      "aud"
+    ]
+  },
+  "np": {
+    "name": {
+      "pl": "Nepal",
+      "en": "Nepal",
+      "de": "Nepal",
+      "it": "Nepal"
+    },
+    "capital": {
+      "pl": "Katmandu",
+      "en": "Kathmandu",
+      "de": "Kathmandu",
+      "it": "Katmandu"
+    },
+    "flag": "flags/np.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "nepali"
+    ],
+    "currency": [
+      "npr"
+    ]
+  },
+  "nl": {
+    "name": {
+      "pl": "Holandia",
+      "en": "Netherlands",
+      "de": "Niederlande",
+      "it": "Paesi Bassi"
+    },
+    "capital": {
+      "pl": "Amsterdam",
+      "en": "Amsterdam",
+      "de": "Amsterdam",
+      "it": "Amsterdam"
+    },
+    "flag": "flags/nl.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "nz": {
+    "name": {
+      "pl": "Nowa Zelandia",
+      "en": "New Zealand",
+      "de": "Neuseeland",
+      "it": "Nuova Zelanda"
+    },
+    "capital": {
+      "pl": "Wellington",
+      "en": "Wellington",
+      "de": "Wellington",
+      "it": "Wellington"
+    },
+    "flag": "flags/nz.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "maori"
+    ],
+    "currency": [
+      "nzd"
+    ]
+  },
+  "ni": {
+    "name": {
+      "pl": "Nikaragua",
+      "en": "Nicaragua",
+      "de": "Nicaragua",
+      "it": "Nicaragua"
+    },
+    "capital": {
+      "pl": "Managua",
+      "en": "Managua",
+      "de": "Managua",
+      "it": "Managua"
+    },
+    "flag": "flags/ni.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "nio"
+    ]
+  },
+  "ne": {
+    "name": {
+      "pl": "Niger",
+      "en": "Niger",
+      "de": "Niger",
+      "it": "Niger"
+    },
+    "capital": {
+      "pl": "Niamey",
+      "en": "Niamey",
+      "de": "Niamey",
+      "it": "Niamey"
+    },
+    "flag": "flags/ne.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "ng": {
+    "name": {
+      "pl": "Nigeria",
+      "en": "Nigeria",
+      "de": "Nigeria",
+      "it": "Nigeria"
+    },
+    "capital": {
+      "pl": "Abudża",
+      "en": "Abuja",
+      "de": "Abuja",
+      "it": "Abuja"
+    },
+    "flag": "flags/ng.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "hausa",
+      "yoruba",
+      "igbo"
+    ],
+    "languages_note": {
+      "pl": "ponad 500 języków ojczystych",
+      "en": "over 500 native languages",
+      "de": "über 500 einheimische Sprachen",
+      "it": "oltre 500 lingue locali"
+    },
+    "currency": [
+      "ngn"
+    ]
+  },
+  "kp": {
+    "name": {
+      "pl": "Korea Północna",
+      "en": "North Korea",
+      "de": "Nordkorea",
+      "it": "Corea del Nord"
+    },
+    "capital": {
+      "pl": "Pjongjang",
+      "en": "Pyongyang",
+      "de": "Pjöngjang",
+      "it": "Pyongyang"
+    },
+    "flag": "flags/kp.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "currency": [
+      "kpw"
+    ]
+  },
+  "no": {
+    "name": {
+      "pl": "Norwegia",
+      "en": "Norway",
+      "de": "Norwegen",
+      "it": "Norvegia"
+    },
+    "capital": {
+      "pl": "Oslo",
+      "en": "Oslo",
+      "de": "Oslo",
+      "it": "Oslo"
+    },
+    "flag": "flags/no.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "norwegian"
+    ],
+    "currency": [
+      "nok"
+    ]
+  },
+  "om": {
+    "name": {
+      "pl": "Oman",
+      "en": "Oman",
+      "de": "Oman",
+      "it": "Oman"
+    },
+    "capital": {
+      "pl": "Maskat",
+      "en": "Muscat",
+      "de": "Maskat",
+      "it": "Mascate"
+    },
+    "flag": "flags/om.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "omr"
+    ]
+  },
+  "pk": {
+    "name": {
+      "pl": "Pakistan",
+      "en": "Pakistan",
+      "de": "Pakistan",
+      "it": "Pakistan"
+    },
+    "capital": {
+      "pl": "Islamabad",
+      "en": "Islamabad",
+      "de": "Islamabad",
+      "it": "Islamabad"
+    },
+    "flag": "flags/pk.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "urdu",
+      "english"
+    ],
+    "currency": [
+      "pkr"
+    ]
+  },
+  "pw": {
+    "name": {
+      "pl": "Palau",
+      "en": "Palau",
+      "de": "Palau",
+      "it": "Palau"
+    },
+    "capital": {
+      "pl": "Ngerulmud",
+      "en": "Ngerulmud",
+      "de": "Ngerulmud",
+      "it": "Ngerulmud"
+    },
+    "flag": "flags/pw.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "palauan"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "pa": {
+    "name": {
+      "pl": "Panama",
+      "en": "Panama",
+      "de": "Panama",
+      "it": "Panama"
+    },
+    "capital": {
+      "pl": "Panama",
+      "en": "Panama City",
+      "de": "Panama-Stadt",
+      "it": "Panama"
+    },
+    "flag": "flags/pa.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "pab",
+      "usd"
+    ]
+  },
+  "pg": {
+    "name": {
+      "pl": "Papua-Nowa Gwinea",
+      "en": "Papua New Guinea",
+      "de": "Papua-Neuguinea",
+      "it": "Papua Nuova Guinea"
+    },
+    "capital": {
+      "pl": "Port Moresby",
+      "en": "Port Moresby",
+      "de": "Port Moresby",
+      "it": "Port Moresby"
+    },
+    "flag": "flags/pg.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "tok_pisin",
+      "hiri_motu"
+    ],
+    "currency": [
+      "pgk"
+    ]
+  },
+  "py": {
+    "name": {
+      "pl": "Paragwaj",
+      "en": "Paraguay",
+      "de": "Paraguay",
+      "it": "Paraguay"
+    },
+    "capital": {
+      "pl": "Asunción",
+      "en": "Asunción",
+      "de": "Asunción",
+      "it": "Asunción"
+    },
+    "flag": "flags/py.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish",
+      "guarani"
+    ],
+    "currency": [
+      "pyg"
+    ]
+  },
+  "pe": {
+    "name": {
+      "pl": "Peru",
+      "en": "Peru",
+      "de": "Peru",
+      "it": "Perù"
+    },
+    "capital": {
+      "pl": "Lima",
+      "en": "Lima",
+      "de": "Lima",
+      "it": "Lima"
+    },
+    "flag": "flags/pe.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish",
+      "quechua"
+    ],
+    "currency": [
+      "pen"
+    ]
+  },
+  "ph": {
+    "name": {
+      "pl": "Filipiny",
+      "en": "Philippines",
+      "de": "Philippinen",
+      "it": "Filippine"
+    },
+    "capital": {
+      "pl": "Manila",
+      "en": "Manila",
+      "de": "Manila",
+      "it": "Manila"
+    },
+    "flag": "flags/ph.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "filipino",
+      "english"
+    ],
+    "currency": [
+      "php"
+    ]
+  },
+  "pl": {
+    "name": {
+      "pl": "Polska",
+      "en": "Poland",
+      "de": "Polen",
+      "it": "Polonia"
+    },
+    "capital": {
+      "pl": "Warszawa",
+      "en": "Warsaw",
+      "de": "Warschau",
+      "it": "Varsavia"
+    },
+    "flag": "flags/pl.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "currency": [
+      "pln"
+    ]
+  },
+  "pt": {
+    "name": {
+      "pl": "Portugalia",
+      "en": "Portugal",
+      "de": "Portugal",
+      "it": "Portogallo"
+    },
+    "capital": {
+      "pl": "Lizbona",
+      "en": "Lisbon",
+      "de": "Lissabon",
+      "it": "Lisbona"
+    },
+    "flag": "flags/pt.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "qa": {
+    "name": {
+      "pl": "Katar",
+      "en": "Qatar",
+      "de": "Katar",
+      "it": "Qatar"
+    },
+    "capital": {
+      "pl": "Doha",
+      "en": "Doha",
+      "de": "Doha",
+      "it": "Doha"
+    },
+    "flag": "flags/qa.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "qar"
+    ]
+  },
+  "ro": {
+    "name": {
+      "pl": "Rumunia",
+      "en": "Romania",
+      "de": "Rumänien",
+      "it": "Romania"
+    },
+    "capital": {
+      "pl": "Bukareszt",
+      "en": "Bucharest",
+      "de": "Bukarest",
+      "it": "Bucarest"
+    },
+    "flag": "flags/ro.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "romanian"
+    ],
+    "currency": [
+      "ron"
+    ]
+  },
+  "ru": {
+    "name": {
+      "pl": "Rosja",
+      "en": "Russia",
+      "de": "Russland",
+      "it": "Russia"
+    },
+    "capital": {
+      "pl": "Moskwa",
+      "en": "Moscow",
+      "de": "Moskau",
+      "it": "Mosca"
+    },
+    "flag": "flags/ru.png",
+    "continents": [
+      "europe",
+      "asia"
+    ],
+    "languages": [
+      "russian"
+    ],
+    "endonym": "Rossiya",
+    "currency": [
+      "rub"
+    ]
+  },
+  "rw": {
+    "name": {
+      "pl": "Rwanda",
+      "en": "Rwanda",
+      "de": "Ruanda",
+      "it": "Ruanda"
+    },
+    "capital": {
+      "pl": "Kigali",
+      "en": "Kigali",
+      "de": "Kigali",
+      "it": "Kigali"
+    },
+    "flag": "flags/rw.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "kinyarwanda",
+      "french",
+      "english"
+    ],
+    "currency": [
+      "rwf"
+    ]
+  },
+  "ch": {
+    "name": {
+      "pl": "Szwajcaria",
+      "en": "Switzerland",
+      "de": "Schweiz",
+      "it": "Svizzera"
+    },
+    "capital": {
+      "pl": "Berno",
+      "en": "Bern",
+      "de": "Bern",
+      "it": "Berna"
+    },
+    "flag": "flags/ch.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "german",
+      "french",
+      "italian",
+      "romansh"
+    ],
+    "endonym": "Confoederatio Helvetica",
+    "currency": [
+      "chf"
+    ]
+  },
+  "si": {
+    "name": {
+      "pl": "Słowenia",
+      "en": "Slovenia",
+      "de": "Slowenien",
+      "it": "Slovenia"
+    },
+    "capital": {
+      "pl": "Lublana",
+      "en": "Ljubljana",
+      "de": "Ljubljana",
+      "it": "Lubiana"
+    },
+    "flag": "flags/si.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "slovenian"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "sk": {
+    "name": {
+      "pl": "Słowacja",
+      "en": "Slovakia",
+      "de": "Slowakei",
+      "it": "Slovacchia"
+    },
+    "capital": {
+      "pl": "Bratysława",
+      "en": "Bratislava",
+      "de": "Bratislava",
+      "it": "Bratislava"
+    },
+    "flag": "flags/sk.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "slovak"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "rs": {
+    "name": {
+      "pl": "Serbia",
+      "en": "Serbia",
+      "de": "Serbien",
+      "it": "Serbia"
+    },
+    "capital": {
+      "pl": "Belgrad",
+      "en": "Belgrade",
+      "de": "Belgrad",
+      "it": "Belgrado"
+    },
+    "flag": "flags/rs.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "serbian"
+    ],
+    "currency": [
+      "rsd"
+    ]
+  },
+  "sl": {
+    "name": {
+      "pl": "Sierra Leone",
+      "en": "Sierra Leone",
+      "de": "Sierra Leone",
+      "it": "Sierra Leone"
+    },
+    "capital": {
+      "pl": "Freetown",
+      "en": "Freetown",
+      "de": "Freetown",
+      "it": "Freetown"
+    },
+    "flag": "flags/sl.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "sle"
+    ]
+  },
+  "tj": {
+    "name": {
+      "pl": "Tadżykistan",
+      "en": "Tajikistan",
+      "de": "Tadschikistan",
+      "it": "Tagikistan"
+    },
+    "capital": {
+      "pl": "Duszanbe",
+      "en": "Dushanbe",
+      "de": "Duschanbe",
+      "it": "Dušanbe"
+    },
+    "flag": "flags/tj.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "tajik"
+    ],
+    "currency": [
+      "tjs"
+    ]
+  },
+  "uz": {
+    "name": {
+      "pl": "Uzbekistan",
+      "en": "Uzbekistan",
+      "de": "Usbekistan",
+      "it": "Uzbekistan"
+    },
+    "capital": {
+      "pl": "Taszkent",
+      "en": "Tashkent",
+      "de": "Taschkent",
+      "it": "Tashkent"
+    },
+    "flag": "flags/uz.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "uzbek"
+    ],
+    "currency": [
+      "uzs"
+    ]
+  },
+  "tv": {
+    "name": {
+      "pl": "Tuvalu",
+      "en": "Tuvalu",
+      "de": "Tuvalu",
+      "it": "Tuvalu"
+    },
+    "capital": {
+      "pl": "Funafuti",
+      "en": "Funafuti",
+      "de": "Funafuti",
+      "it": "Funafuti"
+    },
+    "flag": "flags/tv.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "tuvaluan",
+      "english"
+    ],
+    "currency": [
+      "aud",
+      "tvd"
+    ]
+  },
+  "ci": {
+    "name": {
+      "pl": "Wybrzeże Kości Słoniowej",
+      "en": "Ivory Coast",
+      "de": "Elfenbeinküste",
+      "it": "Costa d'Avorio"
+    },
+    "capital": {
+      "pl": "Yamosukro",
+      "en": "Yamoussoukro",
+      "de": "Yamoussoukro",
+      "it": "Yamoussoukro"
+    },
+    "flag": "flags/ci.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "us": {
+    "name": {
+      "pl": "USA",
+      "en": "United States",
+      "de": "Vereinigte Staaten",
+      "it": "Stati Uniti"
+    },
+    "capital": {
+      "pl": "Waszyngton",
+      "en": "Washington",
+      "de": "Washington",
+      "it": "Washington"
+    },
+    "flag": "flags/us.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "uy": {
+    "name": {
+      "pl": "Urugwaj",
+      "en": "Uruguay",
+      "de": "Uruguay",
+      "it": "Uruguay"
+    },
+    "capital": {
+      "pl": "Montevideo",
+      "en": "Montevideo",
+      "de": "Montevideo",
+      "it": "Montevideo"
+    },
+    "flag": "flags/uy.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "uyu"
+    ]
+  },
+  "tg": {
+    "name": {
+      "pl": "Togo",
+      "en": "Togo",
+      "de": "Togo",
+      "it": "Togo"
+    },
+    "capital": {
+      "pl": "Lome",
+      "en": "Lomé",
+      "de": "Lomé",
+      "it": "Lomé"
+    },
+    "flag": "flags/tg.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "tl": {
+    "name": {
+      "pl": "Timor Wschodni",
+      "en": "Timor-Leste",
+      "de": "Osttimor",
+      "it": "Timor Est"
+    },
+    "capital": {
+      "pl": "Dili",
+      "en": "Dili",
+      "de": "Dili",
+      "it": "Dili"
+    },
+    "flag": "flags/tl.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "portuguese",
+      "tetum"
+    ],
+    "currency": [
+      "usd"
+    ]
+  },
+  "sd": {
+    "name": {
+      "pl": "Sudan",
+      "en": "Sudan",
+      "de": "Sudan",
+      "it": "Sudan"
+    },
+    "capital": {
+      "pl": "Chartum",
+      "en": "Khartoum",
+      "de": "Khartum",
+      "it": "Khartum"
+    },
+    "flag": "flags/sd.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic",
+      "english"
+    ],
+    "currency": [
+      "sdg"
+    ]
+  },
+  "ss": {
+    "name": {
+      "pl": "Sudan Południowy",
+      "en": "South Sudan",
+      "de": "Südsudan",
+      "it": "Sudan del Sud"
+    },
+    "capital": {
+      "pl": "Dżuba",
+      "en": "Juba",
+      "de": "Juba",
+      "it": "Giuba"
+    },
+    "flag": "flags/ss.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "ssp"
+    ]
+  },
+  "zw": {
+    "name": {
+      "pl": "Zimbabwe",
+      "en": "Zimbabwe",
+      "de": "Simbabwe",
+      "it": "Zimbabwe"
+    },
+    "capital": {
+      "pl": "Harare",
+      "en": "Harare",
+      "de": "Harare",
+      "it": "Harare"
+    },
+    "flag": "flags/zw.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "shona",
+      "ndebele"
+    ],
+    "currency": [
+      "usd",
+      "zwg"
+    ]
+  },
+  "gq": {
+    "name": {
+      "pl": "Gwinea Równikowa",
+      "en": "Equatorial Guinea",
+      "de": "Äquatorialguinea",
+      "it": "Guinea Equatoriale"
+    },
+    "capital": {
+      "pl": "Ciudad de la Paz",
+      "en": "Ciudad de la Paz",
+      "de": "Ciudad de la Paz",
+      "it": "Ciudad de la Paz"
+    },
+    "flag": "flags/gq.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "spanish",
+      "french",
+      "portuguese"
+    ],
+    "currency": [
+      "xaf"
+    ]
+  },
+  "er": {
+    "name": {
+      "pl": "Erytrea",
+      "en": "Eritrea",
+      "de": "Eritrea",
+      "it": "Eritrea"
+    },
+    "capital": {
+      "pl": "Asmara",
+      "en": "Asmara",
+      "de": "Asmara",
+      "it": "Asmara"
+    },
+    "flag": "flags/er.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "tigrinya",
+      "arabic",
+      "english"
+    ],
+    "currency": [
+      "ern"
+    ]
+  },
+  "sz": {
+    "name": {
+      "pl": "Eswatini",
+      "en": "Eswatini",
+      "de": "Eswatini",
+      "it": "Eswatini"
+    },
+    "capital": {
+      "pl": "Mbabane",
+      "en": "Mbabane",
+      "de": "Mbabane",
+      "it": "Mbabane"
+    },
+    "flag": "flags/sz.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "swazi",
+      "english"
+    ],
+    "currency": [
+      "szl",
+      "zar"
+    ]
+  },
+  "fj": {
+    "name": {
+      "pl": "Fidżi",
+      "en": "Fiji",
+      "de": "Fidschi",
+      "it": "Figi"
+    },
+    "capital": {
+      "pl": "Suva",
+      "en": "Suva",
+      "de": "Suva",
+      "it": "Suva"
+    },
+    "flag": "flags/fj.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "fijian",
+      "hindi"
+    ],
+    "currency": [
+      "fjd"
+    ]
+  },
+  "kn": {
+    "name": {
+      "pl": "Saint Kitts i Nevis",
+      "en": "Saint Kitts and Nevis",
+      "de": "St. Kitts und Nevis",
+      "it": "Saint Kitts e Nevis"
+    },
+    "capital": {
+      "pl": "Basseterre",
+      "en": "Basseterre",
+      "de": "Basseterre",
+      "it": "Basseterre"
+    },
+    "flag": "flags/kn.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "lc": {
+    "name": {
+      "pl": "Saint Lucia",
+      "en": "Saint Lucia",
+      "de": "St. Lucia",
+      "it": "Saint Lucia"
+    },
+    "capital": {
+      "pl": "Castries",
+      "en": "Castries",
+      "de": "Castries",
+      "it": "Castries"
+    },
+    "flag": "flags/lc.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "vc": {
+    "name": {
+      "pl": "Saint Vincent i Grenadyny",
+      "en": "Saint Vincent and the Grenadines",
+      "de": "St. Vincent und die Grenadinen",
+      "it": "Saint Vincent e Grenadine"
+    },
+    "capital": {
+      "pl": "Kingstown",
+      "en": "Kingstown",
+      "de": "Kingstown",
+      "it": "Kingstown"
+    },
+    "flag": "flags/vc.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "xcd"
+    ]
+  },
+  "ws": {
+    "name": {
+      "pl": "Samoa",
+      "en": "Samoa",
+      "de": "Samoa",
+      "it": "Samoa"
+    },
+    "capital": {
+      "pl": "Apia",
+      "en": "Apia",
+      "de": "Apia",
+      "it": "Apia"
+    },
+    "flag": "flags/ws.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "samoan",
+      "english"
+    ],
+    "currency": [
+      "wst"
+    ]
+  },
+  "sm": {
+    "name": {
+      "pl": "San Marino",
+      "en": "San Marino",
+      "de": "San Marino",
+      "it": "San Marino"
+    },
+    "capital": {
+      "pl": "San Marino",
+      "en": "San Marino",
+      "de": "San Marino",
+      "it": "San Marino"
+    },
+    "flag": "flags/sm.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "italian"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "st": {
+    "name": {
+      "pl": "Wyspy Świętego Tomasza i Książęca",
+      "en": "São Tomé and Príncipe",
+      "de": "São Tomé und Príncipe",
+      "it": "São Tomé e Príncipe"
+    },
+    "capital": {
+      "pl": "São Tomé",
+      "en": "São Tomé",
+      "de": "São Tomé",
+      "it": "São Tomé"
+    },
+    "flag": "flags/st.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "portuguese"
+    ],
+    "currency": [
+      "stn"
+    ]
+  },
+  "sa": {
+    "name": {
+      "pl": "Arabia Saudyjska",
+      "en": "Saudi Arabia",
+      "de": "Saudi-Arabien",
+      "it": "Arabia Saudita"
+    },
+    "capital": {
+      "pl": "Rijad",
+      "en": "Riyadh",
+      "de": "Riad",
+      "it": "Riad"
+    },
+    "flag": "flags/sa.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "sar"
+    ]
+  },
+  "sn": {
+    "name": {
+      "pl": "Senegal",
+      "en": "Senegal",
+      "de": "Senegal",
+      "it": "Senegal"
+    },
+    "capital": {
+      "pl": "Dakar",
+      "en": "Dakar",
+      "de": "Dakar",
+      "it": "Dakar"
+    },
+    "flag": "flags/sn.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "currency": [
+      "xof"
+    ]
+  },
+  "sc": {
+    "name": {
+      "pl": "Seszele",
+      "en": "Seychelles",
+      "de": "Seychellen",
+      "it": "Seychelles"
+    },
+    "capital": {
+      "pl": "Victoria",
+      "en": "Victoria",
+      "de": "Victoria",
+      "it": "Victoria"
+    },
+    "flag": "flags/sc.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "french",
+      "seychellois_creole"
+    ],
+    "currency": [
+      "scr"
+    ]
+  },
+  "sg": {
+    "name": {
+      "pl": "Singapur",
+      "en": "Singapore",
+      "de": "Singapur",
+      "it": "Singapore"
+    },
+    "capital": {
+      "pl": "Singapur",
+      "en": "Singapore",
+      "de": "Singapur",
+      "it": "Singapore"
+    },
+    "flag": "flags/sg.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "english",
+      "malay",
+      "chinese",
+      "tamil"
+    ],
+    "currency": [
+      "sgd"
+    ]
+  },
+  "sb": {
+    "name": {
+      "pl": "Wyspy Salomona",
+      "en": "Solomon Islands",
+      "de": "Salomonen",
+      "it": "Isole Salomone"
+    },
+    "capital": {
+      "pl": "Honiara",
+      "en": "Honiara",
+      "de": "Honiara",
+      "it": "Honiara"
+    },
+    "flag": "flags/sb.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "sbd"
+    ]
+  },
+  "so": {
+    "name": {
+      "pl": "Somalia",
+      "en": "Somalia",
+      "de": "Somalia",
+      "it": "Somalia"
+    },
+    "capital": {
+      "pl": "Mogadiszu",
+      "en": "Mogadishu",
+      "de": "Mogadischu",
+      "it": "Mogadiscio"
+    },
+    "flag": "flags/so.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "somali",
+      "arabic"
+    ],
+    "currency": [
+      "sos"
+    ]
+  },
+  "za": {
+    "name": {
+      "pl": "Republika Południowej Afryki",
+      "en": "South Africa",
+      "de": "Südafrika",
+      "it": "Sudafrica"
+    },
+    "capital": {
+      "pl": "Pretoria",
+      "en": "Pretoria",
+      "de": "Pretoria",
+      "it": "Pretoria"
+    },
+    "flag": "flags/za.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "zulu",
+      "xhosa",
+      "afrikaans",
+      "sepedi",
+      "english",
+      "setswana",
+      "sesotho",
+      "tsonga"
+    ],
+    "languages_note": {
+      "pl": "+4 innych",
+      "en": "+4 more",
+      "de": "+4 weitere",
+      "it": "+4 altre"
+    },
+    "currency": [
+      "zar"
+    ]
+  },
+  "kr": {
+    "name": {
+      "pl": "Korea Południowa",
+      "en": "South Korea",
+      "de": "Südkorea",
+      "it": "Corea del Sud"
+    },
+    "capital": {
+      "pl": "Seul",
+      "en": "Seoul",
+      "de": "Seoul",
+      "it": "Seul"
+    },
+    "flag": "flags/kr.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "currency": [
+      "krw"
+    ]
+  },
+  "es": {
+    "name": {
+      "pl": "Hiszpania",
+      "en": "Spain",
+      "de": "Spanien",
+      "it": "Spagna"
+    },
+    "capital": {
+      "pl": "Madryt",
+      "en": "Madrid",
+      "de": "Madrid",
+      "it": "Madrid"
+    },
+    "flag": "flags/es.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "spanish",
+      "catalan",
+      "basque",
+      "galician"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "lk": {
+    "name": {
+      "pl": "Sri Lanka",
+      "en": "Sri Lanka",
+      "de": "Sri Lanka",
+      "it": "Sri Lanka"
+    },
+    "capital": {
+      "pl": "Sri Dźajawardanapura Kotte",
+      "en": "Sri Jayawardenepura Kotte",
+      "de": "Sri Jayawardenepura Kotte",
+      "it": "Sri Jayawardenepura Kotte"
+    },
+    "flag": "flags/lk.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "sinhala",
+      "tamil"
+    ],
+    "currency": [
+      "lkr"
+    ]
+  },
+  "sr": {
+    "name": {
+      "pl": "Surinam",
+      "en": "Suriname",
+      "de": "Suriname",
+      "it": "Suriname"
+    },
+    "capital": {
+      "pl": "Paramaribo",
+      "en": "Paramaribo",
+      "de": "Paramaribo",
+      "it": "Paramaribo"
+    },
+    "flag": "flags/sr.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "currency": [
+      "srd"
+    ]
+  },
+  "se": {
+    "name": {
+      "pl": "Szwecja",
+      "en": "Sweden",
+      "de": "Schweden",
+      "it": "Svezia"
+    },
+    "capital": {
+      "pl": "Sztokholm",
+      "en": "Stockholm",
+      "de": "Stockholm",
+      "it": "Stoccolma"
+    },
+    "flag": "flags/se.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "swedish"
+    ],
+    "currency": [
+      "sek"
+    ]
+  },
+  "sy": {
+    "name": {
+      "pl": "Syria",
+      "en": "Syria",
+      "de": "Syrien",
+      "it": "Siria"
+    },
+    "capital": {
+      "pl": "Damaszek",
+      "en": "Damascus",
+      "de": "Damaskus",
+      "it": "Damasco"
+    },
+    "flag": "flags/sy.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "syp"
+    ]
+  },
+  "tz": {
+    "name": {
+      "pl": "Tanzania",
+      "en": "Tanzania",
+      "de": "Tansania",
+      "it": "Tanzania"
+    },
+    "capital": {
+      "pl": "Dodoma",
+      "en": "Dodoma",
+      "de": "Dodoma",
+      "it": "Dodoma"
+    },
+    "flag": "flags/tz.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "swahili",
+      "english"
+    ],
+    "currency": [
+      "tzs"
+    ]
+  },
+  "th": {
+    "name": {
+      "pl": "Tajlandia",
+      "en": "Thailand",
+      "de": "Thailand",
+      "it": "Thailandia"
+    },
+    "capital": {
+      "pl": "Bangkok",
+      "en": "Bangkok",
+      "de": "Bangkok",
+      "it": "Bangkok"
+    },
+    "flag": "flags/th.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "currency": [
+      "thb"
+    ]
+  },
+  "to": {
+    "name": {
+      "pl": "Tonga",
+      "en": "Tonga",
+      "de": "Tonga",
+      "it": "Tonga"
+    },
+    "capital": {
+      "pl": "Nukuʻalofa",
+      "en": "Nuku'alofa",
+      "de": "Nuku'alofa",
+      "it": "Nuku'alofa"
+    },
+    "flag": "flags/to.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "tongan",
+      "english"
+    ],
+    "currency": [
+      "top"
+    ]
+  },
+  "tt": {
+    "name": {
+      "pl": "Trynidad i Tobago",
+      "en": "Trinidad and Tobago",
+      "de": "Trinidad und Tobago",
+      "it": "Trinidad e Tobago"
+    },
+    "capital": {
+      "pl": "Port-of-Spain",
+      "en": "Port of Spain",
+      "de": "Port of Spain",
+      "it": "Port of Spain"
+    },
+    "flag": "flags/tt.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "ttd"
+    ]
+  },
+  "tn": {
+    "name": {
+      "pl": "Tunezja",
+      "en": "Tunisia",
+      "de": "Tunesien",
+      "it": "Tunisia"
+    },
+    "capital": {
+      "pl": "Tunis",
+      "en": "Tunis",
+      "de": "Tunis",
+      "it": "Tunisi"
+    },
+    "flag": "flags/tn.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "tnd"
+    ]
+  },
+  "tr": {
+    "name": {
+      "pl": "Turcja",
+      "en": "Turkey",
+      "de": "Türkei",
+      "it": "Turchia"
+    },
+    "capital": {
+      "pl": "Ankara",
+      "en": "Ankara",
+      "de": "Ankara",
+      "it": "Ankara"
+    },
+    "flag": "flags/tr.png",
+    "continents": [
+      "europe",
+      "asia"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "endonym": "Türkiye",
+    "currency": [
+      "try"
+    ]
+  },
+  "tm": {
+    "name": {
+      "pl": "Turkmenistan",
+      "en": "Turkmenistan",
+      "de": "Turkmenistan",
+      "it": "Turkmenistan"
+    },
+    "capital": {
+      "pl": "Aszchabad",
+      "en": "Ashgabat",
+      "de": "Aschgabat",
+      "it": "Aşgabat"
+    },
+    "flag": "flags/tm.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "turkmen"
+    ],
+    "currency": [
+      "tmt"
+    ]
+  },
+  "ug": {
+    "name": {
+      "pl": "Uganda",
+      "en": "Uganda",
+      "de": "Uganda",
+      "it": "Uganda"
+    },
+    "capital": {
+      "pl": "Kampala",
+      "en": "Kampala",
+      "de": "Kampala",
+      "it": "Kampala"
+    },
+    "flag": "flags/ug.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english",
+      "swahili"
+    ],
+    "currency": [
+      "ugx"
+    ]
+  },
+  "ua": {
+    "name": {
+      "pl": "Ukraina",
+      "en": "Ukraine",
+      "de": "Ukraine",
+      "it": "Ucraina"
+    },
+    "capital": {
+      "pl": "Kijów",
+      "en": "Kyiv",
+      "de": "Kyjiw",
+      "it": "Kiev"
+    },
+    "flag": "flags/ua.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "ukrainian"
+    ],
+    "currency": [
+      "uah"
+    ]
+  },
+  "ae": {
+    "name": {
+      "pl": "Zjednoczone Emiraty Arabskie",
+      "en": "United Arab Emirates",
+      "de": "Vereinigte Arabische Emirate",
+      "it": "Emirati Arabi Uniti"
+    },
+    "capital": {
+      "pl": "Abu Zabi",
+      "en": "Abu Dhabi",
+      "de": "Abu Dhabi",
+      "it": "Abu Dhabi"
+    },
+    "flag": "flags/ae.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "aed"
+    ]
+  },
+  "gb": {
+    "name": {
+      "pl": "Wielka Brytania",
+      "en": "United Kingdom",
+      "de": "Vereinigtes Königreich",
+      "it": "Regno Unito"
+    },
+    "capital": {
+      "pl": "Londyn",
+      "en": "London",
+      "de": "London",
+      "it": "Londra"
+    },
+    "flag": "flags/gb.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "gbp"
+    ]
+  },
+  "vu": {
+    "name": {
+      "pl": "Vanuatu",
+      "en": "Vanuatu",
+      "de": "Vanuatu",
+      "it": "Vanuatu"
+    },
+    "capital": {
+      "pl": "Port Vila",
+      "en": "Port Vila",
+      "de": "Port Vila",
+      "it": "Port Vila"
+    },
+    "flag": "flags/vu.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "bislama",
+      "english",
+      "french"
+    ],
+    "currency": [
+      "vuv"
+    ]
+  },
+  "va": {
+    "name": {
+      "pl": "Watykan",
+      "en": "Vatican City",
+      "de": "Vatikanstadt",
+      "it": "Città del Vaticano"
+    },
+    "capital": {
+      "pl": "Watykan",
+      "en": "Vatican City",
+      "de": "Vatikanstadt",
+      "it": "Città del Vaticano"
+    },
+    "flag": "flags/va.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "italian",
+      "latin"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "ve": {
+    "name": {
+      "pl": "Wenezuela",
+      "en": "Venezuela",
+      "de": "Venezuela",
+      "it": "Venezuela"
+    },
+    "capital": {
+      "pl": "Caracas",
+      "en": "Caracas",
+      "de": "Caracas",
+      "it": "Caracas"
+    },
+    "flag": "flags/ve.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "currency": [
+      "ves"
+    ]
+  },
+  "vn": {
+    "name": {
+      "pl": "Wietnam",
+      "en": "Vietnam",
+      "de": "Vietnam",
+      "it": "Vietnam"
+    },
+    "capital": {
+      "pl": "Hanoi",
+      "en": "Hanoi",
+      "de": "Hanoi",
+      "it": "Hanoi"
+    },
+    "flag": "flags/vn.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "vietnamese"
+    ],
+    "currency": [
+      "vnd"
+    ]
+  },
+  "ye": {
+    "name": {
+      "pl": "Jemen",
+      "en": "Yemen",
+      "de": "Jemen",
+      "it": "Yemen"
+    },
+    "capital": {
+      "pl": "Sana",
+      "en": "Sana'a",
+      "de": "Sanaa",
+      "it": "Sana'a"
+    },
+    "flag": "flags/ye.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "yer"
+    ]
+  },
+  "zm": {
+    "name": {
+      "pl": "Zambia",
+      "en": "Zambia",
+      "de": "Sambia",
+      "it": "Zambia"
+    },
+    "capital": {
+      "pl": "Lusaka",
+      "en": "Lusaka",
+      "de": "Lusaka",
+      "it": "Lusaka"
+    },
+    "flag": "flags/zm.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "currency": [
+      "zmw"
+    ]
+  },
+  "tw": {
+    "name": {
+      "pl": "Tajwan",
+      "en": "Taiwan",
+      "de": "Taiwan",
+      "it": "Taiwan"
+    },
+    "capital": {
+      "pl": "Tajpej",
+      "en": "Taipei",
+      "de": "Taipeh",
+      "it": "Taipei"
+    },
+    "flag": "flags/tw.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "currency": [
+      "twd"
+    ]
+  },
+  "mk": {
+    "name": {
+      "pl": "Macedonia Północna",
+      "en": "North Macedonia",
+      "de": "Nordmazedonien",
+      "it": "Macedonia del Nord"
+    },
+    "capital": {
+      "pl": "Skopje",
+      "en": "Skopje",
+      "de": "Skopje",
+      "it": "Skopje"
+    },
+    "flag": "flags/mk.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "macedonian"
+    ],
+    "currency": [
+      "mkd"
+    ]
+  },
+  "xk": {
+    "name": {
+      "pl": "Kosowo",
+      "en": "Kosovo",
+      "de": "Kosovo",
+      "it": "Kosovo"
+    },
+    "capital": {
+      "pl": "Prisztina",
+      "en": "Pristina",
+      "de": "Pristina",
+      "it": "Pristina"
+    },
+    "flag": "flags/xk.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "albanian",
+      "serbian"
+    ],
+    "currency": [
+      "eur"
+    ]
+  },
+  "ps": {
+    "name": {
+      "pl": "Palestyna",
+      "en": "Palestine",
+      "de": "Palästina",
+      "it": "Palestina"
+    },
+    "capital": {
+      "pl": "Ramallah",
+      "en": "Ramallah",
+      "de": "Ramallah",
+      "it": "Ramallah"
+    },
+    "flag": "flags/ps.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "ils"
+    ]
+  },
+  "ai": {
+    "name": {
+      "pl": "Anguilla",
+      "en": "Anguilla",
+      "de": "Anguilla",
+      "it": "Anguilla"
+    },
+    "capital": {
+      "pl": "The Valley",
+      "en": "The Valley",
+      "de": "The Valley",
+      "it": "The Valley"
+    },
+    "flag": "flags/area/ai.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "xcd"
+    ]
+  },
+  "as": {
+    "name": {
+      "pl": "Samoa Amerykańskie",
+      "en": "American Samoa",
+      "de": "Amerikanisch-Samoa",
+      "it": "Samoa Americane"
+    },
+    "capital": {
+      "pl": "Pago Pago",
+      "en": "Pago Pago",
+      "de": "Pago Pago",
+      "it": "Pago Pago"
+    },
+    "flag": "flags/area/as.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "samoan"
+    ],
+    "sovereign": "us",
+    "currency": [
+      "usd"
+    ]
+  },
+  "aw": {
+    "name": {
+      "pl": "Aruba",
+      "en": "Aruba",
+      "de": "Aruba",
+      "it": "Aruba"
+    },
+    "capital": {
+      "pl": "Oranjestad",
+      "en": "Oranjestad",
+      "de": "Oranjestad",
+      "it": "Oranjestad"
+    },
+    "flag": "flags/area/aw.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "dutch",
+      "papiamento"
+    ],
+    "sovereign": "nl",
+    "currency": [
+      "awg"
+    ]
+  },
+  "ax": {
+    "name": {
+      "pl": "Wyspy Alandzkie",
+      "en": "Åland Islands",
+      "de": "Åland",
+      "it": "Isole Åland"
+    },
+    "capital": {
+      "pl": "Mariehamn",
+      "en": "Mariehamn",
+      "de": "Mariehamn",
+      "it": "Mariehamn"
+    },
+    "flag": "flags/area/ax.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "swedish"
+    ],
+    "sovereign": "fi",
+    "currency": [
+      "eur"
+    ]
+  },
+  "bl": {
+    "name": {
+      "pl": "Saint-Barthélemy",
+      "en": "Saint Barthélemy",
+      "de": "Saint-Barthélemy",
+      "it": "Saint-Barthélemy"
+    },
+    "capital": {
+      "pl": "Gustavia",
+      "en": "Gustavia",
+      "de": "Gustavia",
+      "it": "Gustavia"
+    },
+    "flag": "flags/area/bl.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  },
+  "bm": {
+    "name": {
+      "pl": "Bermudy",
+      "en": "Bermuda",
+      "de": "Bermuda",
+      "it": "Bermuda"
+    },
+    "capital": {
+      "pl": "Hamilton",
+      "en": "Hamilton",
+      "de": "Hamilton",
+      "it": "Hamilton"
+    },
+    "flag": "flags/area/bm.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "bmd"
+    ]
+  },
+  "bq": {
+    "name": {
+      "pl": "Bonaire",
+      "en": "Bonaire",
+      "de": "Bonaire",
+      "it": "Bonaire"
+    },
+    "capital": {
+      "pl": "Kralendijk",
+      "en": "Kralendijk",
+      "de": "Kralendijk",
+      "it": "Kralendijk"
+    },
+    "flag": "flags/area/bq.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "dutch",
+      "papiamento"
+    ],
+    "sovereign": "nl",
+    "currency": [
+      "usd"
+    ]
+  },
+  "cc": {
+    "name": {
+      "pl": "Wyspy Kokosowe",
+      "en": "Cocos Islands",
+      "de": "Kokosinseln",
+      "it": "Isole Cocos"
+    },
+    "capital": {
+      "pl": "West Island",
+      "en": "West Island",
+      "de": "West Island",
+      "it": "West Island"
+    },
+    "flag": "flags/area/cc.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "au",
+    "currency": [
+      "aud"
+    ]
+  },
+  "ck": {
+    "name": {
+      "pl": "Wyspy Cooka",
+      "en": "Cook Islands",
+      "de": "Cookinseln",
+      "it": "Isole Cook"
+    },
+    "capital": {
+      "pl": "Avarua",
+      "en": "Avarua",
+      "de": "Avarua",
+      "it": "Avarua"
+    },
+    "flag": "flags/area/ck.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "maori"
+    ],
+    "sovereign": "nz",
+    "currency": [
+      "nzd"
+    ]
+  },
+  "cw": {
+    "name": {
+      "pl": "Curaçao",
+      "en": "Curaçao",
+      "de": "Curaçao",
+      "it": "Curaçao"
+    },
+    "capital": {
+      "pl": "Willemstad",
+      "en": "Willemstad",
+      "de": "Willemstad",
+      "it": "Willemstad"
+    },
+    "flag": "flags/area/cw.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "dutch",
+      "papiamento"
+    ],
+    "sovereign": "nl",
+    "currency": [
+      "ang"
+    ]
+  },
+  "cx": {
+    "name": {
+      "pl": "Wyspa Bożego Narodzenia",
+      "en": "Christmas Island",
+      "de": "Weihnachtsinsel",
+      "it": "Isola di Natale"
+    },
+    "capital": {
+      "pl": "Flying Fish Cove",
+      "en": "Flying Fish Cove",
+      "de": "Flying Fish Cove",
+      "it": "Flying Fish Cove"
+    },
+    "flag": "flags/area/cx.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "au",
+    "currency": [
+      "aud"
+    ]
+  },
+  "eh": {
+    "name": {
+      "pl": "Sahara Zachodnia",
+      "en": "Western Sahara",
+      "de": "Westsahara",
+      "it": "Sahara Occidentale"
+    },
+    "capital": {
+      "pl": "Al-Ujun",
+      "en": "Laayoune",
+      "de": "Laâyoune",
+      "it": "El Ayun"
+    },
+    "flag": "flags/area/eh.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "currency": [
+      "mad"
+    ]
+  },
+  "fk": {
+    "name": {
+      "pl": "Falklandy",
+      "en": "Falkland Islands",
+      "de": "Falklandinseln",
+      "it": "Isole Falkland"
+    },
+    "capital": {
+      "pl": "Stanley",
+      "en": "Stanley",
+      "de": "Stanley",
+      "it": "Stanley"
+    },
+    "flag": "flags/area/fk.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "fkp"
+    ]
+  },
+  "fo": {
+    "name": {
+      "pl": "Wyspy Owcze",
+      "en": "Faroe Islands",
+      "de": "Färöer",
+      "it": "Isole Fær Øer"
+    },
+    "capital": {
+      "pl": "Tórshavn",
+      "en": "Tórshavn",
+      "de": "Tórshavn",
+      "it": "Tórshavn"
+    },
+    "flag": "flags/area/fo.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "faroese",
+      "danish"
+    ],
+    "sovereign": "dk",
+    "currency": [
+      "dkk"
+    ]
+  },
+  "gb-eng": {
+    "name": {
+      "pl": "Anglia",
+      "en": "England",
+      "de": "England",
+      "it": "Inghilterra"
+    },
+    "capital": {
+      "pl": "Londyn",
+      "en": "London",
+      "de": "London",
+      "it": "Londra"
+    },
+    "flag": "flags/area/gb-eng.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "gb-nir": {
+    "name": {
+      "pl": "Irlandia Północna",
+      "en": "Northern Ireland",
+      "de": "Nordirland",
+      "it": "Irlanda del Nord"
+    },
+    "capital": {
+      "pl": "Belfast",
+      "en": "Belfast",
+      "de": "Belfast",
+      "it": "Belfast"
+    },
+    "flag": "flags/area/gb-nir.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english",
+      "irish"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "gb-sct": {
+    "name": {
+      "pl": "Szkocja",
+      "en": "Scotland",
+      "de": "Schottland",
+      "it": "Scozia"
+    },
+    "capital": {
+      "pl": "Edynburg",
+      "en": "Edinburgh",
+      "de": "Edinburgh",
+      "it": "Edimburgo"
+    },
+    "flag": "flags/area/gb-sct.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english",
+      "scottish_gaelic"
+    ],
+    "endonym": "Alba",
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "gb-wls": {
+    "name": {
+      "pl": "Walia",
+      "en": "Wales",
+      "de": "Wales",
+      "it": "Galles"
+    },
+    "capital": {
+      "pl": "Cardiff",
+      "en": "Cardiff",
+      "de": "Cardiff",
+      "it": "Cardiff"
+    },
+    "flag": "flags/area/gb-wls.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "welsh",
+      "english"
+    ],
+    "endonym": "Cymru",
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "gf": {
+    "name": {
+      "pl": "Gujana Francuska",
+      "en": "French Guiana",
+      "de": "Französisch-Guayana",
+      "it": "Guyana francese"
+    },
+    "capital": {
+      "pl": "Kajenna",
+      "en": "Cayenne",
+      "de": "Cayenne",
+      "it": "Caienna"
+    },
+    "flag": "flags/area/gf.png",
+    "continents": [
+      "south_america"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  },
+  "gi": {
+    "name": {
+      "pl": "Gibraltar",
+      "en": "Gibraltar",
+      "de": "Gibraltar",
+      "it": "Gibilterra"
+    },
+    "capital": {
+      "pl": "Gibraltar",
+      "en": "Gibraltar",
+      "de": "Gibraltar",
+      "it": "Gibilterra"
+    },
+    "flag": "flags/area/gi.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "gip"
+    ]
+  },
+  "gl": {
+    "name": {
+      "pl": "Grenlandia",
+      "en": "Greenland",
+      "de": "Grönland",
+      "it": "Groenlandia"
+    },
+    "capital": {
+      "pl": "Nuuk",
+      "en": "Nuuk",
+      "de": "Nuuk",
+      "it": "Nuuk"
+    },
+    "flag": "flags/area/gl.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "greenlandic",
+      "danish"
+    ],
+    "endonym": "Kalaallit Nunaat",
+    "sovereign": "dk",
+    "currency": [
+      "dkk"
+    ]
+  },
+  "gp": {
+    "name": {
+      "pl": "Gwadelupa",
+      "en": "Guadeloupe",
+      "de": "Guadeloupe",
+      "it": "Guadalupa"
+    },
+    "capital": {
+      "pl": "Basse-Terre",
+      "en": "Basse-Terre",
+      "de": "Basse-Terre",
+      "it": "Basse-Terre"
+    },
+    "flag": "flags/area/gp.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  },
+  "gu": {
+    "name": {
+      "pl": "Guam",
+      "en": "Guam",
+      "de": "Guam",
+      "it": "Guam"
+    },
+    "capital": {
+      "pl": "Hagåtña",
+      "en": "Hagåtña",
+      "de": "Hagåtña",
+      "it": "Hagåtña"
+    },
+    "flag": "flags/area/gu.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "chamorro"
+    ],
+    "sovereign": "us",
+    "currency": [
+      "usd"
+    ]
+  },
+  "hk": {
+    "name": {
+      "pl": "Hongkong",
+      "en": "Hong Kong",
+      "de": "Hongkong",
+      "it": "Hong Kong"
+    },
+    "capital": {
+      "pl": "Hongkong",
+      "en": "Hong Kong",
+      "de": "Hongkong",
+      "it": "Hong Kong"
+    },
+    "flag": "flags/area/hk.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "chinese",
+      "english"
+    ],
+    "sovereign": "cn",
+    "currency": [
+      "hkd"
+    ]
+  },
+  "im": {
+    "name": {
+      "pl": "Wyspa Man",
+      "en": "Isle of Man",
+      "de": "Isle of Man",
+      "it": "Isola di Man"
+    },
+    "capital": {
+      "pl": "Douglas",
+      "en": "Douglas",
+      "de": "Douglas",
+      "it": "Douglas"
+    },
+    "flag": "flags/area/im.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english",
+      "manx"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "io": {
+    "name": {
+      "pl": "Brytyjskie Terytorium Oceanu Indyjskiego",
+      "en": "British Indian Ocean Territory",
+      "de": "Britisches Territorium im Indischen Ozean",
+      "it": "Territorio britannico dell'Oceano Indiano"
+    },
+    "capital": {
+      "pl": "Diego Garcia",
+      "en": "Diego Garcia",
+      "de": "Diego Garcia",
+      "it": "Diego Garcia"
+    },
+    "flag": "flags/area/io.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "usd"
+    ]
+  },
+  "je": {
+    "name": {
+      "pl": "Jersey",
+      "en": "Jersey",
+      "de": "Jersey",
+      "it": "Jersey"
+    },
+    "capital": {
+      "pl": "Saint Helier",
+      "en": "Saint Helier",
+      "de": "Saint Helier",
+      "it": "Saint Helier"
+    },
+    "flag": "flags/area/je.png",
+    "continents": [
+      "europe"
+    ],
+    "languages": [
+      "english",
+      "french"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "gbp"
+    ]
+  },
+  "ky": {
+    "name": {
+      "pl": "Kajmany",
+      "en": "Cayman Islands",
+      "de": "Kaimaninseln",
+      "it": "Isole Cayman"
+    },
+    "capital": {
+      "pl": "George Town",
+      "en": "George Town",
+      "de": "George Town",
+      "it": "George Town"
+    },
+    "flag": "flags/area/ky.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "kyd"
+    ]
+  },
+  "mo": {
+    "name": {
+      "pl": "Makau",
+      "en": "Macao",
+      "de": "Macau",
+      "it": "Macao"
+    },
+    "capital": {
+      "pl": "Makau",
+      "en": "Macao",
+      "de": "Macau",
+      "it": "Macao"
+    },
+    "flag": "flags/area/mo.png",
+    "continents": [
+      "asia"
+    ],
+    "languages": [
+      "chinese",
+      "portuguese"
+    ],
+    "sovereign": "cn",
+    "currency": [
+      "mop"
+    ]
+  },
+  "mp": {
+    "name": {
+      "pl": "Mariany Północne",
+      "en": "Northern Mariana Islands",
+      "de": "Nördliche Marianen",
+      "it": "Isole Marianne Settentrionali"
+    },
+    "capital": {
+      "pl": "Saipan",
+      "en": "Saipan",
+      "de": "Saipan",
+      "it": "Saipan"
+    },
+    "flag": "flags/area/mp.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english",
+      "chamorro"
+    ],
+    "sovereign": "us",
+    "currency": [
+      "usd"
+    ]
+  },
+  "mq": {
+    "name": {
+      "pl": "Martynika",
+      "en": "Martinique",
+      "de": "Martinique",
+      "it": "Martinica"
+    },
+    "capital": {
+      "pl": "Fort-de-France",
+      "en": "Fort-de-France",
+      "de": "Fort-de-France",
+      "it": "Fort-de-France"
+    },
+    "flag": "flags/area/mq.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  },
+  "nc": {
+    "name": {
+      "pl": "Nowa Kaledonia",
+      "en": "New Caledonia",
+      "de": "Neukaledonien",
+      "it": "Nuova Caledonia"
+    },
+    "capital": {
+      "pl": "Numea",
+      "en": "Nouméa",
+      "de": "Nouméa",
+      "it": "Nouméa"
+    },
+    "flag": "flags/area/nc.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "xpf"
+    ]
+  },
+  "nf": {
+    "name": {
+      "pl": "Wyspa Norfolk",
+      "en": "Norfolk Island",
+      "de": "Norfolkinsel",
+      "it": "Isola Norfolk"
+    },
+    "capital": {
+      "pl": "Kingston",
+      "en": "Kingston",
+      "de": "Kingston",
+      "it": "Kingston"
+    },
+    "flag": "flags/area/nf.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "au",
+    "currency": [
+      "aud"
+    ]
+  },
+  "nu": {
+    "name": {
+      "pl": "Niue",
+      "en": "Niue",
+      "de": "Niue",
+      "it": "Niue"
+    },
+    "capital": {
+      "pl": "Alofi",
+      "en": "Alofi",
+      "de": "Alofi",
+      "it": "Alofi"
+    },
+    "flag": "flags/area/nu.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "niuean",
+      "english"
+    ],
+    "sovereign": "nz",
+    "currency": [
+      "nzd"
+    ]
+  },
+  "pf": {
+    "name": {
+      "pl": "Polinezja Francuska",
+      "en": "French Polynesia",
+      "de": "Französisch-Polynesien",
+      "it": "Polinesia francese"
+    },
+    "capital": {
+      "pl": "Papeete",
+      "en": "Papeete",
+      "de": "Papeete",
+      "it": "Papeete"
+    },
+    "flag": "flags/area/pf.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "french",
+      "tahitian"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "xpf"
+    ]
+  },
+  "pr": {
+    "name": {
+      "pl": "Portoryko",
+      "en": "Puerto Rico",
+      "de": "Puerto Rico",
+      "it": "Porto Rico"
+    },
+    "capital": {
+      "pl": "San Juan",
+      "en": "San Juan",
+      "de": "San Juan",
+      "it": "San Juan"
+    },
+    "flag": "flags/area/pr.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "spanish",
+      "english"
+    ],
+    "sovereign": "us",
+    "currency": [
+      "usd"
+    ]
+  },
+  "re": {
+    "name": {
+      "pl": "Reunion",
+      "en": "Réunion",
+      "de": "Réunion",
+      "it": "Riunione"
+    },
+    "capital": {
+      "pl": "Saint-Denis",
+      "en": "Saint-Denis",
+      "de": "Saint-Denis",
+      "it": "Saint-Denis"
+    },
+    "flag": "flags/area/re.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  },
+  "sh": {
+    "name": {
+      "pl": "Wyspa Świętej Heleny, Wyspa Wniebowstąpienia i Tristan da Cunha",
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "de": "St. Helena, Ascension und Tristan da Cunha",
+      "it": "Sant'Elena, Ascensione e Tristan da Cunha"
+    },
+    "capital": {
+      "pl": "Jamestown",
+      "en": "Jamestown",
+      "de": "Jamestown",
+      "it": "Jamestown"
+    },
+    "flag": "flags/area/sh.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "shp"
+    ]
+  },
+  "sx": {
+    "name": {
+      "pl": "Sint Maarten",
+      "en": "Sint Maarten",
+      "de": "Sint Maarten",
+      "it": "Sint Maarten"
+    },
+    "capital": {
+      "pl": "Philipsburg",
+      "en": "Philipsburg",
+      "de": "Philipsburg",
+      "it": "Philipsburg"
+    },
+    "flag": "flags/area/sx.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "dutch",
+      "english"
+    ],
+    "sovereign": "nl",
+    "currency": [
+      "ang"
+    ]
+  },
+  "tc": {
+    "name": {
+      "pl": "Turks i Caicos",
+      "en": "Turks and Caicos Islands",
+      "de": "Turks- und Caicosinseln",
+      "it": "Isole Turks e Caicos"
+    },
+    "capital": {
+      "pl": "Cockburn Town",
+      "en": "Cockburn Town",
+      "de": "Cockburn Town",
+      "it": "Cockburn Town"
+    },
+    "flag": "flags/area/tc.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "usd"
+    ]
+  },
+  "vg": {
+    "name": {
+      "pl": "Brytyjskie Wyspy Dziewicze",
+      "en": "British Virgin Islands",
+      "de": "Britische Jungferninseln",
+      "it": "Isole Vergini britanniche"
+    },
+    "capital": {
+      "pl": "Road Town",
+      "en": "Road Town",
+      "de": "Road Town",
+      "it": "Road Town"
+    },
+    "flag": "flags/area/vg.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "gb",
+    "currency": [
+      "usd"
+    ]
+  },
+  "vi": {
+    "name": {
+      "pl": "Wyspy Dziewicze Stanów Zjednoczonych",
+      "en": "United States Virgin Islands",
+      "de": "Amerikanische Jungferninseln",
+      "it": "Isole Vergini americane"
+    },
+    "capital": {
+      "pl": "Charlotte Amalie",
+      "en": "Charlotte Amalie",
+      "de": "Charlotte Amalie",
+      "it": "Charlotte Amalie"
+    },
+    "flag": "flags/area/vi.png",
+    "continents": [
+      "north_america"
+    ],
+    "languages": [
+      "english"
+    ],
+    "sovereign": "us",
+    "currency": [
+      "usd"
+    ]
+  },
+  "wf": {
+    "name": {
+      "pl": "Wallis i Futuna",
+      "en": "Wallis and Futuna",
+      "de": "Wallis und Futuna",
+      "it": "Wallis e Futuna"
+    },
+    "capital": {
+      "pl": "Mata-Utu",
+      "en": "Mata-Utu",
+      "de": "Mata-Utu",
+      "it": "Mata-Utu"
+    },
+    "flag": "flags/area/wf.png",
+    "continents": [
+      "oceania"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "xpf"
+    ]
+  },
+  "yt": {
+    "name": {
+      "pl": "Majotta",
+      "en": "Mayotte",
+      "de": "Mayotte",
+      "it": "Mayotte"
+    },
+    "capital": {
+      "pl": "Mamoudzou",
+      "en": "Mamoudzou",
+      "de": "Mamoudzou",
+      "it": "Mamoudzou"
+    },
+    "flag": "flags/area/yt.png",
+    "continents": [
+      "africa"
+    ],
+    "languages": [
+      "french"
+    ],
+    "sovereign": "fr",
+    "currency": [
+      "eur"
+    ]
+  }
+}

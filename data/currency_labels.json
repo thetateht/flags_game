@@ -1,0 +1,938 @@
+{
+  "curr_afn": {
+    "pl": "afgani",
+    "en": "Afghan afghani",
+    "de": "Afghani",
+    "it": "afghani"
+  },
+  "curr_all": {
+    "pl": "lek",
+    "en": "Albanian lek",
+    "de": "Lek",
+    "it": "lek"
+  },
+  "curr_dzd": {
+    "pl": "dinar algierski",
+    "en": "Algerian dinar",
+    "de": "Algerischer Dinar",
+    "it": "dinaro algerino"
+  },
+  "curr_eur": {
+    "pl": "euro",
+    "en": "Euro",
+    "de": "Euro",
+    "it": "euro"
+  },
+  "curr_aoa": {
+    "pl": "kwanza",
+    "en": "Angolan kwanza",
+    "de": "Kwanza",
+    "it": "kwanza"
+  },
+  "curr_xcd": {
+    "pl": "dolar wschodniokaraibski",
+    "en": "East Caribbean dollar",
+    "de": "Ostkaribischer Dollar",
+    "it": "dollaro dei Caraibi orientali"
+  },
+  "curr_ars": {
+    "pl": "peso argentyńskie",
+    "en": "Argentine peso",
+    "de": "Argentinischer Peso",
+    "it": "peso argentino"
+  },
+  "curr_amd": {
+    "pl": "dram",
+    "en": "Armenian dram",
+    "de": "Dram",
+    "it": "dram"
+  },
+  "curr_aud": {
+    "pl": "dolar australijski",
+    "en": "Australian dollar",
+    "de": "Australischer Dollar",
+    "it": "dollaro australiano"
+  },
+  "curr_azn": {
+    "pl": "manat azerski",
+    "en": "Azerbaijani manat",
+    "de": "Aserbaidschan-Manat",
+    "it": "manat azero"
+  },
+  "curr_bsd": {
+    "pl": "dolar bahamski",
+    "en": "Bahamian dollar",
+    "de": "Bahama-Dollar",
+    "it": "dollaro delle Bahamas"
+  },
+  "curr_bhd": {
+    "pl": "dinar bahrajński",
+    "en": "Bahraini dinar",
+    "de": "Bahrain-Dinar",
+    "it": "dinaro del Bahrein"
+  },
+  "curr_bdt": {
+    "pl": "taka",
+    "en": "Bangladeshi taka",
+    "de": "Taka",
+    "it": "taka"
+  },
+  "curr_bbd": {
+    "pl": "dolar barbadoski",
+    "en": "Barbadian dollar",
+    "de": "Barbados-Dollar",
+    "it": "dollaro di Barbados"
+  },
+  "curr_byn": {
+    "pl": "rubel białoruski",
+    "en": "Belarusian ruble",
+    "de": "Belarus-Rubel",
+    "it": "rublo bielorusso"
+  },
+  "curr_bzd": {
+    "pl": "dolar belizeński",
+    "en": "Belize dollar",
+    "de": "Belize-Dollar",
+    "it": "dollaro del Belize"
+  },
+  "curr_xof": {
+    "pl": "frank CFA (zachodnioafrykański)",
+    "en": "West African CFA franc",
+    "de": "CFA-Franc (Westafrika)",
+    "it": "franco CFA (Africa occidentale)"
+  },
+  "curr_btn": {
+    "pl": "ngultrum",
+    "en": "Bhutanese ngultrum",
+    "de": "Ngultrum",
+    "it": "ngultrum"
+  },
+  "curr_bob": {
+    "pl": "boliviano",
+    "en": "Bolivian boliviano",
+    "de": "Boliviano",
+    "it": "boliviano"
+  },
+  "curr_bam": {
+    "pl": "marka zamienna",
+    "en": "Bosnia-Herzegovina convertible mark",
+    "de": "Konvertible Mark",
+    "it": "marco convertibile"
+  },
+  "curr_bwp": {
+    "pl": "pula",
+    "en": "Botswana pula",
+    "de": "Pula",
+    "it": "pula"
+  },
+  "curr_brl": {
+    "pl": "real",
+    "en": "Brazilian real",
+    "de": "Real",
+    "it": "real"
+  },
+  "curr_bnd": {
+    "pl": "dolar brunejski",
+    "en": "Brunei dollar",
+    "de": "Brunei-Dollar",
+    "it": "dollaro del Brunei"
+  },
+  "curr_bgn": {
+    "pl": "lew",
+    "en": "Bulgarian lev",
+    "de": "Lew",
+    "it": "lev"
+  },
+  "curr_bif": {
+    "pl": "frank burundyjski",
+    "en": "Burundian franc",
+    "de": "Burundi-Franc",
+    "it": "franco del Burundi"
+  },
+  "curr_khr": {
+    "pl": "riel",
+    "en": "Cambodian riel",
+    "de": "Riel",
+    "it": "riel"
+  },
+  "curr_xaf": {
+    "pl": "frank CFA (środkowoafrykański)",
+    "en": "Central African CFA franc",
+    "de": "CFA-Franc (Zentralafrika)",
+    "it": "franco CFA (Africa centrale)"
+  },
+  "curr_cad": {
+    "pl": "dolar kanadyjski",
+    "en": "Canadian dollar",
+    "de": "Kanadischer Dollar",
+    "it": "dollaro canadese"
+  },
+  "curr_cve": {
+    "pl": "escudo zielonoprzylądkowe",
+    "en": "Cape Verdean escudo",
+    "de": "Kap-Verde-Escudo",
+    "it": "escudo capoverdiano"
+  },
+  "curr_clp": {
+    "pl": "peso chilijskie",
+    "en": "Chilean peso",
+    "de": "Chilenischer Peso",
+    "it": "peso cileno"
+  },
+  "curr_cny": {
+    "pl": "yuan",
+    "en": "Chinese yuan",
+    "de": "Renminbi (Yuan)",
+    "it": "yuan renminbi"
+  },
+  "curr_cop": {
+    "pl": "peso kolumbijskie",
+    "en": "Colombian peso",
+    "de": "Kolumbianischer Peso",
+    "it": "peso colombiano"
+  },
+  "curr_kmf": {
+    "pl": "frank komoryjski",
+    "en": "Comorian franc",
+    "de": "Komoren-Franc",
+    "it": "franco delle Comore"
+  },
+  "curr_cdf": {
+    "pl": "frank kongijski",
+    "en": "Congolese franc",
+    "de": "Kongo-Franc",
+    "it": "franco congolese"
+  },
+  "curr_crc": {
+    "pl": "colon kostarykański",
+    "en": "Costa Rican colón",
+    "de": "Costa-Rica-Colón",
+    "it": "colón costaricano"
+  },
+  "curr_cup": {
+    "pl": "peso kubańskie",
+    "en": "Cuban peso",
+    "de": "Kubanischer Peso",
+    "it": "peso cubano"
+  },
+  "curr_czk": {
+    "pl": "korona czeska",
+    "en": "Czech koruna",
+    "de": "Tschechische Krone",
+    "it": "corona ceca"
+  },
+  "curr_dkk": {
+    "pl": "korona duńska",
+    "en": "Danish krone",
+    "de": "Dänische Krone",
+    "it": "corona danese"
+  },
+  "curr_djf": {
+    "pl": "frank dżibutyjski",
+    "en": "Djiboutian franc",
+    "de": "Dschibuti-Franc",
+    "it": "franco gibutiano"
+  },
+  "curr_dop": {
+    "pl": "peso dominikańskie",
+    "en": "Dominican peso",
+    "de": "Dominikanischer Peso",
+    "it": "peso dominicano"
+  },
+  "curr_usd": {
+    "pl": "dolar amerykański",
+    "en": "US dollar",
+    "de": "US-Dollar",
+    "it": "dollaro statunitense"
+  },
+  "curr_egp": {
+    "pl": "funt egipski",
+    "en": "Egyptian pound",
+    "de": "Ägyptisches Pfund",
+    "it": "sterlina egiziana"
+  },
+  "curr_etb": {
+    "pl": "birr",
+    "en": "Ethiopian birr",
+    "de": "Birr",
+    "it": "birr"
+  },
+  "curr_gmd": {
+    "pl": "dalasi",
+    "en": "Gambian dalasi",
+    "de": "Dalasi",
+    "it": "dalasi"
+  },
+  "curr_gel": {
+    "pl": "lari",
+    "en": "Georgian lari",
+    "de": "Lari",
+    "it": "lari"
+  },
+  "curr_ghs": {
+    "pl": "cedi",
+    "en": "Ghanaian cedi",
+    "de": "Cedi",
+    "it": "cedi"
+  },
+  "curr_gtq": {
+    "pl": "quetzal",
+    "en": "Guatemalan quetzal",
+    "de": "Quetzal",
+    "it": "quetzal"
+  },
+  "curr_gnf": {
+    "pl": "frank gwinejski",
+    "en": "Guinean franc",
+    "de": "Guinea-Franc",
+    "it": "franco guineano"
+  },
+  "curr_gyd": {
+    "pl": "dolar gujański",
+    "en": "Guyanese dollar",
+    "de": "Guyana-Dollar",
+    "it": "dollaro guyanese"
+  },
+  "curr_htg": {
+    "pl": "gourde",
+    "en": "Haitian gourde",
+    "de": "Gourde",
+    "it": "gourde"
+  },
+  "curr_hnl": {
+    "pl": "lempira",
+    "en": "Honduran lempira",
+    "de": "Lempira",
+    "it": "lempira"
+  },
+  "curr_huf": {
+    "pl": "forint",
+    "en": "Hungarian forint",
+    "de": "Forint",
+    "it": "fiorino ungherese"
+  },
+  "curr_isk": {
+    "pl": "korona islandzka",
+    "en": "Icelandic króna",
+    "de": "Isländische Krone",
+    "it": "corona islandese"
+  },
+  "curr_inr": {
+    "pl": "rupia indyjska",
+    "en": "Indian rupee",
+    "de": "Indische Rupie",
+    "it": "rupia indiana"
+  },
+  "curr_idr": {
+    "pl": "rupia indonezyjska",
+    "en": "Indonesian rupiah",
+    "de": "Rupiah",
+    "it": "rupia indonesiana"
+  },
+  "curr_irr": {
+    "pl": "rial irański",
+    "en": "Iranian rial",
+    "de": "Iranischer Rial",
+    "it": "rial iraniano"
+  },
+  "curr_iqd": {
+    "pl": "dinar iracki",
+    "en": "Iraqi dinar",
+    "de": "Irakischer Dinar",
+    "it": "dinaro iracheno"
+  },
+  "curr_ils": {
+    "pl": "nowy szekel",
+    "en": "Israeli new shekel",
+    "de": "Neuer Schekel",
+    "it": "nuovo shekel"
+  },
+  "curr_jmd": {
+    "pl": "dolar jamajski",
+    "en": "Jamaican dollar",
+    "de": "Jamaika-Dollar",
+    "it": "dollaro giamaicano"
+  },
+  "curr_jpy": {
+    "pl": "jen",
+    "en": "Japanese yen",
+    "de": "Yen",
+    "it": "yen"
+  },
+  "curr_jod": {
+    "pl": "dinar jordański",
+    "en": "Jordanian dinar",
+    "de": "Jordanischer Dinar",
+    "it": "dinaro giordano"
+  },
+  "curr_kzt": {
+    "pl": "tenge",
+    "en": "Kazakhstani tenge",
+    "de": "Tenge",
+    "it": "tenge"
+  },
+  "curr_kes": {
+    "pl": "szyling kenijski",
+    "en": "Kenyan shilling",
+    "de": "Kenia-Schilling",
+    "it": "scellino keniota"
+  },
+  "curr_kwd": {
+    "pl": "dinar kuwejcki",
+    "en": "Kuwaiti dinar",
+    "de": "Kuwait-Dinar",
+    "it": "dinaro kuwaitiano"
+  },
+  "curr_kgs": {
+    "pl": "som",
+    "en": "Kyrgyzstani som",
+    "de": "Som (Kirgisistan)",
+    "it": "som kirghiso"
+  },
+  "curr_lak": {
+    "pl": "kip",
+    "en": "Lao kip",
+    "de": "Kip",
+    "it": "kip"
+  },
+  "curr_lbp": {
+    "pl": "funt libański",
+    "en": "Lebanese pound",
+    "de": "Libanesisches Pfund",
+    "it": "lira libanese"
+  },
+  "curr_lrd": {
+    "pl": "dolar liberyjski",
+    "en": "Liberian dollar",
+    "de": "Liberianischer Dollar",
+    "it": "dollaro liberiano"
+  },
+  "curr_lyd": {
+    "pl": "dinar libijski",
+    "en": "Libyan dinar",
+    "de": "Libyscher Dinar",
+    "it": "dinaro libico"
+  },
+  "curr_chf": {
+    "pl": "frank szwajcarski",
+    "en": "Swiss franc",
+    "de": "Schweizer Franken",
+    "it": "franco svizzero"
+  },
+  "curr_mga": {
+    "pl": "ariary",
+    "en": "Malagasy ariary",
+    "de": "Ariary",
+    "it": "ariary"
+  },
+  "curr_mwk": {
+    "pl": "kwacha malawijska",
+    "en": "Malawian kwacha",
+    "de": "Malawi-Kwacha",
+    "it": "kwacha malawiano"
+  },
+  "curr_myr": {
+    "pl": "ringgit",
+    "en": "Malaysian ringgit",
+    "de": "Ringgit",
+    "it": "ringgit"
+  },
+  "curr_mvr": {
+    "pl": "rufiyaa",
+    "en": "Maldivian rufiyaa",
+    "de": "Rufiyaa",
+    "it": "rufiyaa"
+  },
+  "curr_mru": {
+    "pl": "ouguiya",
+    "en": "Mauritanian ouguiya",
+    "de": "Ouguiya",
+    "it": "ouguiya"
+  },
+  "curr_mur": {
+    "pl": "rupia maurytyjska",
+    "en": "Mauritian rupee",
+    "de": "Mauritius-Rupie",
+    "it": "rupia mauriziana"
+  },
+  "curr_mxn": {
+    "pl": "peso meksykańskie",
+    "en": "Mexican peso",
+    "de": "Mexikanischer Peso",
+    "it": "peso messicano"
+  },
+  "curr_mdl": {
+    "pl": "lej mołdawski",
+    "en": "Moldovan leu",
+    "de": "Moldauischer Leu",
+    "it": "leu moldavo"
+  },
+  "curr_mnt": {
+    "pl": "tugrik",
+    "en": "Mongolian tögrög",
+    "de": "Tögrög",
+    "it": "tugrik"
+  },
+  "curr_mad": {
+    "pl": "dirham marokański",
+    "en": "Moroccan dirham",
+    "de": "Marokkanischer Dirham",
+    "it": "dirham marocchino"
+  },
+  "curr_mzn": {
+    "pl": "metical",
+    "en": "Mozambican metical",
+    "de": "Metical",
+    "it": "metical"
+  },
+  "curr_mmk": {
+    "pl": "kyat",
+    "en": "Myanmar kyat",
+    "de": "Kyat",
+    "it": "kyat"
+  },
+  "curr_nad": {
+    "pl": "dolar namibijski",
+    "en": "Namibian dollar",
+    "de": "Namibia-Dollar",
+    "it": "dollaro namibiano"
+  },
+  "curr_npr": {
+    "pl": "rupia nepalska",
+    "en": "Nepalese rupee",
+    "de": "Nepalesische Rupie",
+    "it": "rupia nepalese"
+  },
+  "curr_nzd": {
+    "pl": "dolar nowozelandzki",
+    "en": "New Zealand dollar",
+    "de": "Neuseeland-Dollar",
+    "it": "dollaro neozelandese"
+  },
+  "curr_nio": {
+    "pl": "cordoba",
+    "en": "Nicaraguan córdoba",
+    "de": "Córdoba Oro",
+    "it": "córdoba"
+  },
+  "curr_ngn": {
+    "pl": "naira",
+    "en": "Nigerian naira",
+    "de": "Naira",
+    "it": "naira"
+  },
+  "curr_kpw": {
+    "pl": "won północnokoreański",
+    "en": "North Korean won",
+    "de": "Nordkoreanischer Won",
+    "it": "won nordcoreano"
+  },
+  "curr_nok": {
+    "pl": "korona norweska",
+    "en": "Norwegian krone",
+    "de": "Norwegische Krone",
+    "it": "corona norvegese"
+  },
+  "curr_omr": {
+    "pl": "rial omański",
+    "en": "Omani rial",
+    "de": "Omanischer Rial",
+    "it": "rial omanita"
+  },
+  "curr_pkr": {
+    "pl": "rupia pakistańska",
+    "en": "Pakistani rupee",
+    "de": "Pakistanische Rupie",
+    "it": "rupia pakistana"
+  },
+  "curr_pab": {
+    "pl": "balboa",
+    "en": "Panamanian balboa",
+    "de": "Balboa",
+    "it": "balboa"
+  },
+  "curr_pgk": {
+    "pl": "kina",
+    "en": "Papua New Guinean kina",
+    "de": "Kina",
+    "it": "kina"
+  },
+  "curr_pyg": {
+    "pl": "guarani",
+    "en": "Paraguayan guaraní",
+    "de": "Guaraní",
+    "it": "guaraní"
+  },
+  "curr_pen": {
+    "pl": "sol",
+    "en": "Peruvian sol",
+    "de": "Sol",
+    "it": "sol"
+  },
+  "curr_php": {
+    "pl": "peso filipińskie",
+    "en": "Philippine peso",
+    "de": "Philippinischer Peso",
+    "it": "peso filippino"
+  },
+  "curr_pln": {
+    "pl": "złoty",
+    "en": "Polish złoty",
+    "de": "Złoty",
+    "it": "złoty"
+  },
+  "curr_qar": {
+    "pl": "rial katarski",
+    "en": "Qatari riyal",
+    "de": "Katar-Riyal",
+    "it": "riyal qatariota"
+  },
+  "curr_ron": {
+    "pl": "lej rumuński",
+    "en": "Romanian leu",
+    "de": "Rumänischer Leu",
+    "it": "leu rumeno"
+  },
+  "curr_rub": {
+    "pl": "rubel rosyjski",
+    "en": "Russian ruble",
+    "de": "Russischer Rubel",
+    "it": "rublo russo"
+  },
+  "curr_rwf": {
+    "pl": "frank rwandyjski",
+    "en": "Rwandan franc",
+    "de": "Ruanda-Franc",
+    "it": "franco ruandese"
+  },
+  "curr_rsd": {
+    "pl": "dinar serbski",
+    "en": "Serbian dinar",
+    "de": "Serbischer Dinar",
+    "it": "dinaro serbo"
+  },
+  "curr_sle": {
+    "pl": "leone",
+    "en": "Sierra Leonean leone",
+    "de": "Leone",
+    "it": "leone"
+  },
+  "curr_tjs": {
+    "pl": "somoni",
+    "en": "Tajikistani somoni",
+    "de": "Somoni",
+    "it": "somoni"
+  },
+  "curr_uzs": {
+    "pl": "sum",
+    "en": "Uzbekistani som",
+    "de": "Usbekistan-Som",
+    "it": "som uzbeko"
+  },
+  "curr_uyu": {
+    "pl": "peso urugwajskie",
+    "en": "Uruguayan peso",
+    "de": "Uruguayischer Peso",
+    "it": "peso uruguaiano"
+  },
+  "curr_sdg": {
+    "pl": "funt sudański",
+    "en": "Sudanese pound",
+    "de": "Sudanesisches Pfund",
+    "it": "sterlina sudanese"
+  },
+  "curr_ssp": {
+    "pl": "funt południowosudański",
+    "en": "South Sudanese pound",
+    "de": "Südsudanesisches Pfund",
+    "it": "sterlina sudsudanese"
+  },
+  "curr_ern": {
+    "pl": "nakfa",
+    "en": "Eritrean nakfa",
+    "de": "Nakfa",
+    "it": "nakfa"
+  },
+  "curr_szl": {
+    "pl": "lilangeni",
+    "en": "Eswatini lilangeni",
+    "de": "Lilangeni",
+    "it": "lilangeni"
+  },
+  "curr_fjd": {
+    "pl": "dolar fidżyjski",
+    "en": "Fijian dollar",
+    "de": "Fidschi-Dollar",
+    "it": "dollaro figiano"
+  },
+  "curr_wst": {
+    "pl": "tala",
+    "en": "Samoan tālā",
+    "de": "Tala",
+    "it": "tala"
+  },
+  "curr_stn": {
+    "pl": "dobra",
+    "en": "São Tomé and Príncipe dobra",
+    "de": "Dobra",
+    "it": "dobra"
+  },
+  "curr_sar": {
+    "pl": "rial saudyjski",
+    "en": "Saudi riyal",
+    "de": "Saudi-Riyal",
+    "it": "riyal saudita"
+  },
+  "curr_scr": {
+    "pl": "rupia seszelska",
+    "en": "Seychellois rupee",
+    "de": "Seychellen-Rupie",
+    "it": "rupia delle Seychelles"
+  },
+  "curr_sgd": {
+    "pl": "dolar singapurski",
+    "en": "Singapore dollar",
+    "de": "Singapur-Dollar",
+    "it": "dollaro di Singapore"
+  },
+  "curr_sbd": {
+    "pl": "dolar Wysp Salomona",
+    "en": "Solomon Islands dollar",
+    "de": "Salomonen-Dollar",
+    "it": "dollaro delle Isole Salomone"
+  },
+  "curr_sos": {
+    "pl": "szyling somalijski",
+    "en": "Somali shilling",
+    "de": "Somalia-Schilling",
+    "it": "scellino somalo"
+  },
+  "curr_zar": {
+    "pl": "rand",
+    "en": "South African rand",
+    "de": "Rand",
+    "it": "rand"
+  },
+  "curr_krw": {
+    "pl": "won południowokoreański",
+    "en": "South Korean won",
+    "de": "Südkoreanischer Won",
+    "it": "won sudcoreano"
+  },
+  "curr_lkr": {
+    "pl": "rupia lankijska",
+    "en": "Sri Lankan rupee",
+    "de": "Sri-Lanka-Rupie",
+    "it": "rupia singalese"
+  },
+  "curr_srd": {
+    "pl": "dolar surinamski",
+    "en": "Surinamese dollar",
+    "de": "Suriname-Dollar",
+    "it": "dollaro surinamese"
+  },
+  "curr_sek": {
+    "pl": "korona szwedzka",
+    "en": "Swedish krona",
+    "de": "Schwedische Krone",
+    "it": "corona svedese"
+  },
+  "curr_syp": {
+    "pl": "funt syryjski",
+    "en": "Syrian pound",
+    "de": "Syrisches Pfund",
+    "it": "lira siriana"
+  },
+  "curr_tzs": {
+    "pl": "szyling tanzański",
+    "en": "Tanzanian shilling",
+    "de": "Tansania-Schilling",
+    "it": "scellino tanzaniano"
+  },
+  "curr_thb": {
+    "pl": "bat",
+    "en": "Thai baht",
+    "de": "Baht",
+    "it": "baht"
+  },
+  "curr_top": {
+    "pl": "pa'anga",
+    "en": "Tongan paʻanga",
+    "de": "Paʻanga",
+    "it": "paʻanga"
+  },
+  "curr_ttd": {
+    "pl": "dolar Trynidadu i Tobago",
+    "en": "Trinidad and Tobago dollar",
+    "de": "Trinidad-und-Tobago-Dollar",
+    "it": "dollaro di Trinidad e Tobago"
+  },
+  "curr_tnd": {
+    "pl": "dinar tunezyjski",
+    "en": "Tunisian dinar",
+    "de": "Tunesischer Dinar",
+    "it": "dinaro tunisino"
+  },
+  "curr_try": {
+    "pl": "lira turecka",
+    "en": "Turkish lira",
+    "de": "Türkische Lira",
+    "it": "lira turca"
+  },
+  "curr_tmt": {
+    "pl": "manat turkmeński",
+    "en": "Turkmenistan manat",
+    "de": "Turkmenistan-Manat",
+    "it": "manat turkmeno"
+  },
+  "curr_ugx": {
+    "pl": "szyling ugandyjski",
+    "en": "Ugandan shilling",
+    "de": "Uganda-Schilling",
+    "it": "scellino ugandese"
+  },
+  "curr_uah": {
+    "pl": "hrywna",
+    "en": "Ukrainian hryvnia",
+    "de": "Hrywnja",
+    "it": "grivnia"
+  },
+  "curr_aed": {
+    "pl": "dirham ZEA",
+    "en": "UAE dirham",
+    "de": "VAE-Dirham",
+    "it": "dirham degli Emirati"
+  },
+  "curr_gbp": {
+    "pl": "funt szterling",
+    "en": "British pound",
+    "de": "Pfund Sterling",
+    "it": "sterlina britannica"
+  },
+  "curr_vuv": {
+    "pl": "vatu",
+    "en": "Vanuatu vatu",
+    "de": "Vatu",
+    "it": "vatu"
+  },
+  "curr_ves": {
+    "pl": "boliwar",
+    "en": "Venezuelan bolívar",
+    "de": "Bolívar",
+    "it": "bolívar"
+  },
+  "curr_vnd": {
+    "pl": "dong",
+    "en": "Vietnamese đồng",
+    "de": "Đồng",
+    "it": "đồng"
+  },
+  "curr_yer": {
+    "pl": "rial jemeński",
+    "en": "Yemeni rial",
+    "de": "Jemen-Rial",
+    "it": "rial yemenita"
+  },
+  "curr_zmw": {
+    "pl": "kwacha zambijska",
+    "en": "Zambian kwacha",
+    "de": "Sambischer Kwacha",
+    "it": "kwacha zambiano"
+  },
+  "curr_twd": {
+    "pl": "nowy dolar tajwański",
+    "en": "New Taiwan dollar",
+    "de": "Neuer Taiwan-Dollar",
+    "it": "nuovo dollaro taiwanese"
+  },
+  "curr_mkd": {
+    "pl": "denar",
+    "en": "Macedonian denar",
+    "de": "Mazedonischer Denar",
+    "it": "denaro macedone"
+  },
+  "curr_awg": {
+    "pl": "florin arubański",
+    "en": "Aruban florin",
+    "de": "Aruba-Florin",
+    "it": "fiorino di Aruba"
+  },
+  "curr_bmd": {
+    "pl": "dolar bermudzki",
+    "en": "Bermudian dollar",
+    "de": "Bermuda-Dollar",
+    "it": "dollaro delle Bermuda"
+  },
+  "curr_ang": {
+    "pl": "gulden antylski",
+    "en": "Netherlands Antillean guilder",
+    "de": "Antillen-Gulden",
+    "it": "fiorino delle Antille olandesi"
+  },
+  "curr_fkp": {
+    "pl": "funt falklandzki",
+    "en": "Falkland Islands pound",
+    "de": "Falkland-Pfund",
+    "it": "sterlina delle Falkland"
+  },
+  "curr_gip": {
+    "pl": "funt gibraltarski",
+    "en": "Gibraltar pound",
+    "de": "Gibraltar-Pfund",
+    "it": "sterlina di Gibilterra"
+  },
+  "curr_hkd": {
+    "pl": "dolar hongkoński",
+    "en": "Hong Kong dollar",
+    "de": "Hongkong-Dollar",
+    "it": "dollaro di Hong Kong"
+  },
+  "curr_kyd": {
+    "pl": "dolar kajmański",
+    "en": "Cayman Islands dollar",
+    "de": "Kaiman-Dollar",
+    "it": "dollaro delle Isole Cayman"
+  },
+  "curr_mop": {
+    "pl": "pataca",
+    "en": "Macanese pataca",
+    "de": "Macau-Pataca",
+    "it": "pataca di Macao"
+  },
+  "curr_xpf": {
+    "pl": "frank CFP",
+    "en": "CFP franc",
+    "de": "CFP-Franc",
+    "it": "franco CFP"
+  },
+  "curr_shp": {
+    "pl": "funt Świętej Heleny",
+    "en": "Saint Helena pound",
+    "de": "St.-Helena-Pfund",
+    "it": "sterlina di Sant'Elena"
+  },
+  "curr_lsl": {
+    "pl": "loti",
+    "en": "Lesotho loti",
+    "de": "Loti",
+    "it": "loti"
+  },
+  "curr_zwg": {
+    "pl": "Zimbabwe Gold (ZiG)",
+    "en": "Zimbabwe Gold (ZiG)",
+    "de": "Zimbabwe Gold (ZiG)",
+    "it": "Zimbabwe Gold (ZiG)"
+  },
+  "curr_tvd": {
+    "pl": "dolar tuvalański",
+    "en": "Tuvaluan dollar",
+    "de": "Tuvalu-Dollar",
+    "it": "dollaro di Tuvalu"
+  },
+  "curr_kid": {
+    "pl": "dolar Kiribati",
+    "en": "Kiribati dollar",
+    "de": "Kiribati-Dollar",
+    "it": "dollaro di Kiribati"
+  }
+}

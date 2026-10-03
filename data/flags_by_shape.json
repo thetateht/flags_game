@@ -1,0 +1,157 @@
+{
+    "green": {
+        "easy": ["br", "dm", "pk", "sa"],
+        "hard": ["bd", "ng", "tm", "zm"],
+        "extr": ["cc", "mo", "nf"]
+    },
+    "red": {
+        "easy": ["al", "cn", "dk", "es", "lv", "me", "no", "tr", "vn"],
+        "hard": ["kg", "ma", "tl", "tn", "to", "tt"],
+        "extr": ["hk", "im", "wf"]
+    },
+    "white": {
+        "easy": ["fi", "ge", "il", "jp", "va"],
+        "hard": ["af", "cy", "kr", "uy"],
+        "extr": ["bl", "fo", "gb-eng", "gb-nir", "je", "vi", "yt"]
+    },
+    "blue_white": {
+        "easy": ["ar", "ee", "gr", "sm", "xk"],
+        "hard": ["bw", "gt", "hn", "ni", "so", "sv"],
+        "extr": ["gb-sct", "mp", "fm"]
+    },
+    "blue_yellow": {
+        "easy": ["ba", "kz", "se", "ua"],
+        "hard": ["bb", "bs", "lc", "nr", "pw"],
+        "extr": ["aw", "cw", "gu"]
+    },
+    "red_white": {
+        "easy": ["at", "ca", "ch", "ge", "jp", "mt", "np", "pl"],
+        "hard": ["bh", "id", "mc", "pe", "qa", "sg"],
+        "extr": ["gi", "gl", "pf"]
+    },
+    "blue_red_green": {
+        "easy": ["cf", "sc", "za"],
+        "hard": ["er", "gm", "mu", "na"],
+        "extr": ["nc", "ss"]
+    },
+    "blue_red_white": {
+        "easy": ["cz", "hr", "ph", "rs", "si", "sk", "th"],
+        "hard": ["cr", "kh", "kp", "la", "py", "sz"],
+        "extr": ["as", "sx", "cv"]
+    },
+    "blue_red_yellow": {
+        "easy": ["ad", "am", "md", "ro"],
+        "hard": ["co", "ec", "td", "ve"],
+        "extr": ["nc", "mu", "sc"]
+    },
+    "green_red_white": {
+        "easy": ["bg", "hu", "ie", "in", "ir", "it", "mx"],
+        "hard": ["ci", "mg", "ne", "om", "tj"],
+        "extr": ["gb-wls", "gq", "lb"]
+    },
+    "green_red_yellow": {
+        "easy": ["bo", "lt", "sn"],
+        "hard": ["bf", "bj", "cg", "cm", "gh", "gn", "gw", "gy", "ml", "mr"],
+        "extr": ["gf", "gd", "st"]
+    },
+    "black_white_red_green": {
+        "easy": ["ae", "eg", "iq", "jo", "kw", "ly", "sy"],
+        "hard": ["ke", "mw", "ps", "sd", "vu", "ye"],
+        "extr": ["eh", "mq", "kn"]
+    },
+    "green_blue_white_yellow": {
+        "easy": ["dj", "sl", "uz"],
+        "hard": ["ga", "ls", "rw", "sb", "tz"],
+        "extr": ["cx", "vc"]
+    },
+    "cross": {
+        "easy": ["ch", "fi", "gr", "no", "pa", "se"],
+        "hard": ["dk", "do", "ge", "is", "to"],
+        "extr": ["ax", "fo", "gb-eng", "gb-nir"]
+    },
+    "cross-diag": {
+        "easy": ["au", "gb", "mk", "nz"],
+        "hard": ["bi", "fj", "gd", "jm", "tv"],
+        "extr": ["ai", "bm", "ck", "fk", "io", "ky", "nu", "re", "sh", "tc", "vg"]
+    },
+    "diag": {
+        "easy": ["bn", "bt", "pg", "tz"],
+        "hard": ["cd", "cg", "kn", "mh", "na", "sb", "tt"],
+        "extr": ["bq", "cx", "gf"]
+    },
+    "vertical": {
+        "easy": ["ad", "md", "mn", "mx"],
+        "hard": ["cm", "gt", "sn", "vc"],
+        "extr": ["nf", "bb"]
+    },
+    "vertical_empty": {
+        "easy": ["be", "fr", "it", "ro"],
+        "hard": ["ci", "ie", "ml", "ng"],
+        "extr": ["gn", "td"]
+    },
+    "vertical13": {
+        "easy": ["ae", "by", "pk", "pt"],
+        "hard": ["bj", "gw", "lk", "qa"],
+        "extr": ["bh", "mg"]
+    },
+    "horizontal": {
+        "easy": ["ar", "eg", "es", "in", "iq", "ir", "ly"],
+        "hard": ["az", "bo", "lb", "ls", "ni", "py", "tj"],
+        "extr": ["pf", "gh", "sv"]
+    },
+    "horizontal_empty": {
+        "easy": ["at", "de", "hu", "lt", "nl", "ru"],
+        "hard": ["am", "bg", "ee", "lu"],
+        "extr": ["ga", "sl", "ye"]
+    },
+    "horizontal_two": {
+        "easy": ["co", "id", "li", "pl", "sg", "ua"],
+        "hard": ["ao", "bf", "cl", "ec", "ht"],
+        "extr": ["gl", "rw"]
+    },
+    "stripes": {
+        "easy": ["cu", "gr", "my", "th", "us"],
+        "hard": ["cf", "gm", "km", "lr", "mu", "tg", "ug", "uy", "zw"],
+        "extr": ["io", "pr"]
+    },
+    "triangle": {
+        "easy": ["cu", "cz", "jo", "ph", "ps", "za"],
+        "hard": ["bs", "dj", "er", "gq", "gy", "mz", "sd", "ss", "st", "tl", "vu", "zw"],
+        "extr": ["eh", "mq", "pr", "sx"]
+    },
+    "window": {
+        "easy": ["au", "lr", "my", "us"],
+        "hard": ["fj", "tg", "to", "tw", "ws"],
+        "extr": ["ai", "bm", "wf"]
+    },
+    "circle": {
+        "easy": ["br", "jp", "kr", "pt", "tn"],
+        "hard": ["bd", "bz", "et", "la", "pw"],
+        "extr": ["gl", "nc"]
+    },
+    "sun": {
+        "easy": ["ar", "kz", "mk", "np", "ph"],
+        "hard": ["ag", "kg", "ki", "na", "tw", "uy"],
+        "extr": ["gp", "rw"]
+    },
+    "moon": {
+        "easy": ["az", "dz", "pk", "tn", "tr"],
+        "hard": ["km", "ly", "mr", "mv", "sg", "tm", "uz"],
+        "extr": ["cc", "eh"]
+    },
+    "star": {
+        "easy": ["et", "il", "mm", "vn"],
+        "hard": ["bf", "cm", "gh", "sn", "so", "sr"],
+        "extr": ["gf", "hk"]
+    },
+    "star_side": {
+        "easy": ["cl", "cn", "kp"],
+        "hard": ["cd", "cf", "gw", "lr", "tg", "tl"],
+        "extr": ["aw", "pr"]
+    },
+    "stars": {
+        "easy": ["au", "ba", "nz", "sy", "xk"],
+        "hard": ["cv", "fm", "hn", "pg", "sb", "tv", "ve", "ws"],
+        "extr": ["cc", "ck", "cx", "mo"]
+    }
+}

@@ -1,0 +1,290 @@
+{
+  "game_title": {
+    "pl": "Flagi i stolice",
+    "en": "Flags & Capitals",
+    "de": "Flaggen & Hauptstädte",
+    "it": "Bandiere e capitali"
+  },
+  "start_description": {
+    "pl": "Dopasuj flagi i stolice do krajów.",
+    "en": "Match flags and capitals to the countries.",
+    "de": "Ordne Flaggen und Hauptstädte den Ländern zu.",
+    "it": "Abbina bandiere e capitali ai paesi."
+  },
+  "start_rules": {
+    "pl": "Kliknij wybrany kraj, a następnie pasującą flagę lub stolicę – albo przeciągnij flagę lub stolicę na kraj.\n\nZa każdą poprawnie rozpoznaną flagę lub stolicę otrzymasz 2 punkty. Za błędną odpowiedź tracisz 2 punkty, a za brak odpowiedzi – 1 punkt.\n\nGra rozpoczyna się z 3 państwami do odgadnięcia. Po zdobyciu 100 punktów liczba państw wzrośnie do 4. Od 200 punktów będzie ich 5, a wśród nich mogą pojawić się terytoria.",
+    "en": "Click on a country, then on the matching flag or capital city – or drag the flag or capital onto the country.\n\nYou earn 2 points for each correctly identified flag or capital. A wrong answer costs 2 points, and no answer costs 1 point.\n\nThe game begins with 3 countries to identify. Once you reach 100 points, the number of countries increases to 4. At 200 points, there will be 5, and territories may appear among them.",
+    "de": "Klicke auf ein Land und dann auf die passende Flagge oder Hauptstadt – oder ziehe die Flagge bzw. Hauptstadt auf das Land.\n\nFür jede richtig erkannte Flagge oder Hauptstadt erhältst du 2 Punkte. Eine falsche Antwort kostet 2 Punkte, keine Antwort 1 Punkt.\n\nDas Spiel beginnt mit 3 Ländern. Ab 100 Punkten sind es 4 Länder, ab 200 Punkten 5 – darunter können auch Territorien sein.",
+    "it": "Clicca su un paese, poi sulla bandiera o sulla capitale corrispondente – oppure trascina la bandiera o la capitale sul paese.\n\nPer ogni bandiera o capitale indovinata ottieni 2 punti. Una risposta sbagliata costa 2 punti, nessuna risposta 1 punto.\n\nIl gioco inizia con 3 paesi da indovinare. A 100 punti diventano 4, da 200 punti 5 – e tra questi possono comparire anche dei territori."
+  },
+  "start_rules_timed": {
+    "pl": "W trybie na czas na każdą rundę będziesz mieć 15 sekund. Jeśli w tym czasie dopasujesz poprawnie wszystkie odpowiedzi i klikniesz „Sprawdź”, doliczonych zostanie tyle punktów, ile pozostało sekund. Jeśli czas się skończy, runda zostanie sprawdzona automatycznie.",
+    "en": "In timed mode, you have 15 seconds per round. If you select all the correct answers and click \"Check\" within that time, you are awarded points equal to the remaining seconds. If time runs out, the round is checked automatically.",
+    "de": "Im Zeitmodus hast du pro Runde 15 Sekunden. Wenn du in dieser Zeit alles richtig zuordnest und auf „Prüfen“ klickst, bekommst du so viele Zusatzpunkte, wie Sekunden übrig sind. Läuft die Zeit ab, wird die Runde automatisch geprüft.",
+    "it": "Nella modalità a tempo hai 15 secondi per ogni round. Se in questo tempo abbini tutto correttamente e clicchi «Verifica», ricevi tanti punti bonus quanti sono i secondi rimasti. Se il tempo scade, il round viene verificato automaticamente."
+  },
+  "start_rules_end": {
+    "pl": "Zdobycie 400 punktów daje wygraną, a zejście do -20 punktów kończy grę.",
+    "en": "Reach 400 points to win; dropping to -20 points ends the game.",
+    "de": "Mit 400 Punkten hast du gewonnen, bei -20 Punkten ist das Spiel vorbei.",
+    "it": "Con 400 punti vinci, con -20 punti la partita finisce."
+  },
+  "sel_mode": {
+    "pl": "Wybierz tryb gry",
+    "en": "Select game mode",
+    "de": "Spielmodus wählen",
+    "it": "Scegli la modalità"
+  },
+  "mode_normal": {
+    "pl": "Zwykła gra",
+    "en": "Normal",
+    "de": "Normal",
+    "it": "Normale"
+  },
+  "mode_timed": {
+    "pl": "Gra na czas",
+    "en": "Timed",
+    "de": "Auf Zeit",
+    "it": "A tempo"
+  },
+  "time_left": {
+    "pl": "Czas",
+    "en": "Time",
+    "de": "Zeit",
+    "it": "Tempo"
+  },
+  "level": {
+    "pl": "Poziom",
+    "en": "Level",
+    "de": "Level",
+    "it": "Livello"
+  },
+  "play": {
+    "pl": "Zagraj",
+    "en": "Play",
+    "de": "Spielen",
+    "it": "Gioca"
+  },
+  "flags": {
+    "pl": "Flagi",
+    "en": "Flags",
+    "de": "Flaggen",
+    "it": "Bandiere"
+  },
+  "capitals": {
+    "pl": "Stolice",
+    "en": "Capital cities",
+    "de": "Hauptstädte",
+    "it": "Capitali"
+  },
+  "flag": {
+    "pl": "FLAGA",
+    "en": "FLAG",
+    "de": "FLAGGE",
+    "it": "BANDIERA"
+  },
+  "capital": {
+    "pl": "STOLICA",
+    "en": "CAPITAL",
+    "de": "HAUPTSTADT",
+    "it": "CAPITALE"
+  },
+  "check": {
+    "pl": "Sprawdź",
+    "en": "Check",
+    "de": "Prüfen",
+    "it": "Verifica"
+  },
+  "next": {
+    "pl": "Dalej",
+    "en": "Next",
+    "de": "Weiter",
+    "it": "Avanti"
+  },
+  "score": {
+    "pl": "Wynik rundy",
+    "en": "Round score",
+    "de": "Rundenpunkte",
+    "it": "Punti del round"
+  },
+  "points": {
+    "pl": "Suma punktów",
+    "en": "Total score",
+    "de": "Gesamtpunkte",
+    "it": "Punti totali"
+  },
+  "hover_hint": {
+    "pl": "🌍 Więcej informacji o kraju po najechaniu kursorem",
+    "en": "🌍 Hover over a country for more info",
+    "de": "🌍 Mit der Maus über ein Land fahren – mehr Infos",
+    "it": "🌍 Più informazioni sul paese passandoci sopra col mouse"
+  },
+  "level_up": {
+    "pl": "Gratulacje!\nNowy poziom!",
+    "en": "Congratulations!\nYou've levelled up!",
+    "de": "Glückwunsch!\nNeues Level!",
+    "it": "Complimenti!\nNuovo livello!"
+  },
+  "return": {
+    "pl": "Zakończ grę",
+    "en": "End game",
+    "de": "Spiel beenden",
+    "it": "Termina partita"
+  },
+  "win": {
+    "pl": "Gratulacje! Wygrałeś/aś!",
+    "en": "Congratulations! You've won!",
+    "de": "Glückwunsch! Du hast gewonnen!",
+    "it": "Complimenti! Hai vinto!"
+  },
+  "next_bonus": {
+    "pl": "Graj dalej bez punktów",
+    "en": "Continue without points",
+    "de": "Ohne Punkte weiterspielen",
+    "it": "Continua senza punti"
+  },
+  "stats": {
+    "pl": "Statystyki",
+    "en": "Statistics",
+    "de": "Statistik",
+    "it": "Statistiche"
+  },
+  "loss": {
+    "pl": "Niestety, przegrałeś/aś...",
+    "en": "Unfortunately, you lost...",
+    "de": "Leider verloren...",
+    "it": "Purtroppo hai perso..."
+  },
+  "correct": {
+    "pl": "Poprawne",
+    "en": "Correct",
+    "de": "Richtig",
+    "it": "Giuste"
+  },
+  "wrong": {
+    "pl": "Błędne",
+    "en": "Wrong",
+    "de": "Falsch",
+    "it": "Sbagliate"
+  },
+  "empty": {
+    "pl": "Puste",
+    "en": "Empty",
+    "de": "Leer",
+    "it": "Vuote"
+  },
+  "top_mistakes": {
+    "pl": "Największe kłopoty",
+    "en": "Most trouble with",
+    "de": "Die meisten Fehler bei",
+    "it": "Errori più frequenti"
+  },
+  "max_streak": {
+    "pl": "Najdłuższa seria",
+    "en": "Longest streak",
+    "de": "Längste Serie",
+    "it": "Serie più lunga"
+  },
+  "continent": {
+    "pl": "Kontynent",
+    "en": "Continent",
+    "de": "Kontinent",
+    "it": "Continente"
+  },
+  "spoken_languages": {
+    "pl": "Języki",
+    "en": "Languages",
+    "de": "Sprachen",
+    "it": "Lingue"
+  },
+  "endonym_label": {
+    "pl": "Nazwa lokalna",
+    "en": "Native name",
+    "de": "Eigenbezeichnung",
+    "it": "Nome locale"
+  },
+  "sovereign_label": {
+    "pl": "Przynależność",
+    "en": "Sovereign state",
+    "de": "Zugehörigkeit",
+    "it": "Appartenenza"
+  },
+  "currency_label": {
+    "pl": "Waluta",
+    "en": "Currency",
+    "de": "Währung",
+    "it": "Valuta"
+  },
+  "continent_europe": {
+    "pl": "Europa",
+    "en": "Europe",
+    "de": "Europa",
+    "it": "Europa"
+  },
+  "continent_asia": {
+    "pl": "Azja",
+    "en": "Asia",
+    "de": "Asien",
+    "it": "Asia"
+  },
+  "continent_africa": {
+    "pl": "Afryka",
+    "en": "Africa",
+    "de": "Afrika",
+    "it": "Africa"
+  },
+  "continent_north_america": {
+    "pl": "Ameryka Północna",
+    "en": "North America",
+    "de": "Nordamerika",
+    "it": "America del Nord"
+  },
+  "continent_south_america": {
+    "pl": "Ameryka Południowa",
+    "en": "South America",
+    "de": "Südamerika",
+    "it": "America del Sud"
+  },
+  "continent_oceania": {
+    "pl": "Oceania",
+    "en": "Oceania",
+    "de": "Ozeanien",
+    "it": "Oceania"
+  },
+  "new_game": {
+    "pl": "Nowa gra",
+    "en": "New game",
+    "de": "Neues Spiel",
+    "it": "Nuova partita"
+  },
+  "mode_hidden": {
+    "pl": "Ukryte flagi",
+    "en": "Hidden flags",
+    "de": "Verdeckte Flaggen",
+    "it": "Bandiere nascoste"
+  },
+  "mode_normal_desc": {
+    "pl": "Flagi i stolice, bez pośpiechu",
+    "en": "Flags and capitals, no rush",
+    "de": "Flaggen und Hauptstädte, ohne Zeitdruck",
+    "it": "Bandiere e capitali, senza fretta"
+  },
+  "mode_timed_desc": {
+    "pl": "Flagi i stolice, 15 sekund na rundę",
+    "en": "Flags and capitals, 15 seconds per round",
+    "de": "Flaggen und Hauptstädte, 15 Sekunden",
+    "it": "Bandiere e capitali, 15 secondi per round"
+  },
+  "mode_hidden_desc": {
+    "pl": "Same flagi, odsłaniane stopniowo",
+    "en": "Flags only, revealed step by step",
+    "de": "Nur Flaggen, nach und nach aufgedeckt",
+    "it": "Solo bandiere, svelate poco a poco"
+  },
+  "start_rules_hidden": {
+    "pl": "W trybie „Ukryte flagi” rozpoznajesz tylko flagi, które są stopniowo odsłaniane, a punkty za nie liczą się podwójnie.",
+    "en": "In \"Hidden flags\" mode you identify flags only – they are revealed gradually and score double points.",
+    "de": "Im Modus „Verdeckte Flaggen“ erkennst du nur Flaggen, die nach und nach aufgedeckt werden – dafür zählen sie doppelt.",
+    "it": "Nella modalità «Bandiere nascoste» riconosci solo le bandiere, che vengono svelate poco a poco, e valgono il doppio dei punti."
+  }
+}

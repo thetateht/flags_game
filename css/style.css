@@ -1,0 +1,839 @@
+/* Heading font, stored in fonts/ (SIL Open Font License, see fonts/OFL.txt).
+   Variable font: one file covers weights 400-700. */
+@font-face {
+  font-family: "Lora";
+  src: url("../fonts/Lora-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400 700;
+  font-display: swap;
+}
+
+/* Colors and fonts taken from py/ui/style.py */
+:root {
+  --color-active: #1a334d;
+  --color-correct: #a3e0b3; /* softer than the original lightgreen */
+  --color-wrong: #eea5a0; /* softer than lightcoral, same lightness as the green */
+
+  --color-page: #e6eff6; /* page around the game card (gradient start, see body) */
+  --color-bg: #ffffff; /* game card */
+  --color-card-border: #b7c9da;
+  --color-bg-card: #ffffff;
+  --color-panel: #eef4fa; /* info panels on the white game card: rules, status, timer, popups */
+  --color-accent: #6090b0;
+  --color-accent-dark: #2c5580;
+  --color-accent-light: #dce8f2;
+  --color-text: #1f2937;
+  --color-next: #3f8f8a; /* "Next" button: different from the blue "Check" */
+
+  --font-heading: "Lora", Georgia, serif; /* title and headings */
+
+  /* One look for all frames and buttons */
+  --radius: 4px;
+  --frame-border: 1px solid #c4ccd4; /* cards, popups */
+  --slot-border-color: #9aa6b2; /* flag/capital slots, a bit darker */
+
+  --color-disabled-bg: #c8c8c8;
+  --color-disabled-text: #6b6b6b;
+}
+
+body {
+  margin: 0;
+  /* Sky-like diagonal gradient behind the game card */
+  background: var(--color-page) linear-gradient(160deg, var(--color-page), #adc5db) fixed;
+  color: var(--color-text);
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  /* "safe": when the window is narrower than the content, start at the left edge
+     instead of overflowing to the left (where the page cannot be scrolled) */
+  align-items: safe center;
+  min-height: var(--viewport-height, 100vh);
+  zoom: var(--scale, 1); /* set from js/scaling.js */
+}
+
+/* Free space above and below the card split 1 : 2, so the card sits
+   a bit above the middle (exact centering looks too low) */
+#app::before,
+#app::after {
+  content: "";
+}
+
+#app::before {
+  flex: 1;
+}
+
+#app::after {
+  flex: 2;
+}
+
+/* Both screens are a card on a slightly darker page */
+.start,
+.game {
+  margin-block: 10px 20px; /* thinner on top, like the free space */
+  background: var(--color-bg);
+  border: 1px solid var(--color-card-border);
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+p {
+  margin: 0;
+}
+
+/* Images cannot be dragged by the browser (also set in JS: draggable = false) */
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
+/* Fast clicking on the game screen should not select text */
+.game {
+  user-select: none;
+}
+
+/* ---------- Buttons (ttk "TButton" in clam theme) ---------- */
+.btn {
+  background: var(--color-accent);
+  color: white;
+  /* One border setting for all buttons: semi-transparent dark,
+     so it is always a darker shade of the button's own background */
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: var(--radius);
+  padding: 6px;
+  font-family: Arial, sans-serif;
+  font-size: 10pt;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: var(--color-accent-dark);
+}
+
+.btn:disabled,
+.btn:disabled:hover {
+  background: var(--color-disabled-bg);
+  color: var(--color-disabled-text);
+  cursor: default;
+}
+
+/* Used flag/capital in the bank: looks disabled, but can still be clicked
+   (moves it from the country that has it) */
+.btn.used {
+  background: var(--color-disabled-bg);
+  color: var(--color-disabled-text);
+}
+
+.btn.used:hover {
+  background: #b4b4b4;
+}
+
+/* Selected choice (language, mode, later: country/flag/capital) */
+.btn.selected,
+.btn.selected:hover {
+  background: var(--color-active);
+}
+
+/* ---------- Start screen ---------- */
+.start {
+  position: relative; /* anchor for the language switcher */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 40px;
+}
+
+.title {
+  margin: 0 0 40px;
+  font-family: var(--font-heading);
+  font-size: 28pt;
+  color: var(--color-active);
+}
+
+/* Other headings use the same font as the title */
+.status-card,
+.bank-label,
+.rules-head,
+.mode-label {
+  font-family: var(--font-heading);
+  font-weight: bold;
+}
+
+/* Top-right corner, level with the title */
+.lang-switcher {
+  position: absolute;
+  top: 30px;
+  right: 40px; /* right edge of the content (card padding) */
+  display: flex;
+  gap: 4px;
+}
+
+.btn-lang {
+  font-size: 10pt;
+  padding: 5px 8px;
+}
+
+.wallpaper {
+  display: grid;
+  gap: 2px; /* white frames between flags */
+  padding: 2px;
+  background: var(--color-bg-card);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+  margin: 0 0 30px;
+}
+
+.wallpaper img {
+  display: block;
+  width: 46px;
+  height: 28px; /* stretched, like resize() in Python */
+}
+
+/* Spans the wallpaper width: rules on the left edge, mode on the right edge */
+.bottom-row {
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.rules-card {
+  width: 555px;
+  padding: 8px 5px; /* a bit more at top/bottom: paragraphs are 10px apart */
+  background: var(--color-panel);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+}
+
+/* All language versions in the same grid cell (stacked); the hidden ones
+   still take up space, so the card fits the longest version */
+.rules-card {
+  display: grid;
+}
+
+.rules-layer {
+  grid-area: 1 / 1;
+  /* Shorter language versions: the spare space is spread evenly – between the paragraphs
+     and also above the first and below the last one, so the gaps between paragraphs
+     are never bigger than the gaps at the top and bottom of the card */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.rules-layer.hidden-layer {
+  visibility: hidden;
+}
+
+.rules-head {
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.rules-text {
+  margin-top: 10px;
+  font-size: 13pt;
+  white-space: pre-line; /* keeps "\n\n" paragraph breaks from the JSON */
+}
+
+/* Timed-mode paragraph when "timed" is selected: darker background and an accent bar
+   on the left. All rules paragraphs have the same left padding, so text does not jump. */
+.rules-head,
+.rules-text {
+  padding-left: 8px;
+}
+
+.rules-text.highlight {
+  background: #d4e4f1;
+  box-shadow: inset 4px 0 0 var(--color-accent);
+}
+
+.start-right {
+  flex: 1; /* takes the rest of the row; the mode buttons are centered in it */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mode-label {
+  margin: 10px 0 20px;
+  font-size: 18pt;
+}
+
+/* Game modes one below another: name and a one-line description.
+   Fixed width (fits the longest descriptions), narrower than the column,
+   so there is more space next to the rules. */
+.mode-buttons {
+  width: 310px;
+  display: grid;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.btn-choice {
+  padding: 10px 16px;
+  font-size: 14pt; /* like capital buttons; smaller than Play (20pt) */
+  text-align: left;
+}
+
+.mode-name,
+.mode-desc {
+  display: block;
+}
+
+.mode-desc {
+  margin-top: 4px;
+  font-size: 10.5pt;
+  opacity: 0.85;
+}
+
+.btn-play {
+  margin: 20px;
+  min-width: 185px; /* same reason as .btn-choice (fits "Spielen") */
+  padding: 30px 45px;
+  font-size: 20pt;
+}
+
+/* ---------- Game screen ---------- */
+.game {
+  width: 1100px; /* game area; status and timer stick out to the sides */
+  /* Side padding of the card: grows with the window (room for status and timer),
+     up to 295px; keeps a 24px page margin on narrower windows */
+  --side: clamp(24px, calc((var(--viewport-width, 100vw) - 1100px) / 2 - 24px), 295px);
+  padding: 15px var(--side) 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Title centered; status (left) and timer (right) are placed absolutely,
+   so their height does not push the country cards down. */
+.game-header {
+  align-self: stretch;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.game .title {
+  margin: 10px 0;
+}
+
+/* Status and timer sit outside the 1100px game area (in the card's side padding)
+   on wide windows, but move in to stay at least 16px inside the card on narrower ones. */
+.game-status {
+  position: absolute;
+  left: max(-235px, calc(16px - var(--side))); /* at least 16px inside the card */
+  top: 30px;
+}
+
+/* Status card. Fixed width (fits "Suma punktów: -195"), so it keeps its size
+   and long messages (level up, win) wrap inside instead of widening it. */
+.status-card {
+  width: 190px;
+  padding: 10px 12px;
+  background: var(--color-panel);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+}
+
+.status-line + .status-line,
+.scores .status-line {
+  margin-top: 8px;
+}
+
+.level-label,
+.score-label {
+  font-size: 16pt;
+}
+
+.status-card .level-label,
+.status-card .score-label {
+  font-size: 14pt;
+}
+
+.status-value {
+  color: var(--color-active);
+}
+
+.level-label {
+  margin-bottom: 5px;
+  white-space: pre-line; /* "\n" in texts = line break */
+}
+
+/* After winning: bigger, centered message ("Congratulations!" must fit in the card) */
+.status-card.won .level-label {
+  margin: 0;
+  font-size: 17pt;
+  text-align: center;
+}
+
+/* Right column: timer (timed mode) */
+.game-tools {
+  position: absolute;
+  right: max(-110px, calc(16px - var(--side)));
+  top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+}
+
+.timer {
+  width: auto; /* not the fixed width of the status card */
+  font-size: 14pt; /* the rest of the look comes from .status-card */
+}
+
+/* Default status look: "Label: value" */
+.status-label::after {
+  content: ": ";
+}
+
+.countries-row {
+  position: relative; /* anchor for the one-time hover hint */
+  display: flex;
+  margin-top: 15px;
+}
+
+/* Disabled buttons let the mouse through, so hovering the card works after checking */
+.country-card .btn:disabled {
+  pointer-events: none;
+}
+
+.country-card {
+  width: 165px;
+  margin: 10px;
+}
+
+/* Fixed height, so flag slots start at the same height for 1-3 line names.
+   Button sits at the bottom, right above the flag slot. */
+.name-area {
+  height: 80px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.btn-country {
+  width: 100%;
+  padding: 12px 6px;
+  font-size: 12pt;
+}
+
+.slot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px 0;
+  border: 1px dashed var(--slot-border-color); /* empty: "put something here" */
+  border-radius: var(--radius);
+  font-size: 10pt;
+  color: var(--color-disabled-text);
+  text-align: center;
+}
+
+/* Filled slot: solid frame (same color as the dashed one) and normal text color */
+.slot.filled {
+  border-style: solid;
+  color: var(--color-text);
+}
+
+/* Slots are clickable until the round is checked (empty: select the country,
+   filled: put the flag/capital back to the bank) */
+.slot {
+  cursor: pointer;
+}
+
+.slot:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 1px var(--color-accent);
+}
+
+.game.checked .slot {
+  cursor: default;
+}
+
+.game.checked .slot:hover {
+  border-color: var(--slot-border-color);
+  box-shadow: none;
+}
+
+.flag-slot {
+  height: 100px;
+}
+
+.cap-slot {
+  height: 50px;
+  padding: 0 4px; /* keeps text off the border; used in CAPITAL_SLOT_TEXT_WIDTH */
+}
+
+/* Assigned flag: thumbnail like in the bank */
+.flag-slot img {
+  max-width: 146px;
+  max-height: 88px;
+}
+
+/* Assigned capital */
+.cap-slot.filled {
+  background: var(--color-accent-light);
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+/* After checking (declared later, so it wins over .filled) */
+.slot.correct {
+  background: var(--color-correct);
+}
+
+.slot.wrong {
+  background: var(--color-wrong);
+}
+
+.timer.correct,
+.level-label.correct {
+  background: var(--color-correct);
+}
+
+.timer.wrong,
+.title.wrong {
+  background: var(--color-wrong);
+}
+
+/* Fixed height (worst case: 5 capitals in one column),
+   so the bottom bar does not jump between levels */
+.banks {
+  height: 300px;
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.flags-bank {
+  margin: 0 60px 0 20px;
+}
+
+.capitals-bank {
+  margin: 0 20px 0 60px;
+}
+
+.bank-label {
+  margin: 0 0 8px;
+  font-size: 14pt;
+  color: var(--color-active); /* same as the title */
+  text-align: center;
+}
+
+.bank-grid {
+  display: grid;
+  gap: 14px 16px;
+}
+
+.flags-bank .bank-grid {
+  gap: 16px 30px;
+}
+
+/* Flag image centered in its button */
+.btn-flag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  background: var(--color-bg); /* same as the flag slots under the countries */
+  border-color: #a9bfd3; /* lighter than other buttons, around the image */
+}
+
+.btn-flag:hover {
+  background: var(--color-accent-light);
+}
+
+/* Used flag: faded, so the remaining ones stand out
+   (the whole box, so in "Hidden flags" the curtain fades together with the image) */
+.btn-flag.used .flag-box,
+.btn-flag:disabled .flag-box {
+  opacity: 0.35;
+}
+
+/* Box around a bank flag image, exactly its size */
+.flag-box {
+  display: block;
+  line-height: 0;
+}
+
+.btn-flag img {
+  display: block;
+  max-width: 146px;
+  max-height: 88px;
+}
+
+/* Level 3: 6 capitals in 2 columns = only 3 rows, so the whole section starts lower */
+.capitals-bank.two-columns {
+  margin-top: 20px;
+}
+
+.btn-capital {
+  min-width: 180px; /* short names alone looked too narrow */
+  padding: 8px 10px;
+  font-size: 14pt; /* long names get a smaller size from JS */
+  line-height: 22px; /* same button height for every font size */
+}
+
+/* Check centered */
+.bottom-bar {
+  align-self: stretch;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: end;
+  margin: 48px 0 15px; /* ~1 cm lower than before */
+}
+
+.btn-check {
+  grid-column: 2;
+  /* Same width for Check / Next / Game over (both languages);
+     only the longer after-win label makes it wider. */
+  min-width: 250px;
+  padding: 30px 70px;
+  font-size: 16pt;
+}
+
+/* After checking: "Next" / "Continue without points" in teal (not when greyed out) */
+.btn-check.next:not(:disabled) {
+  background: var(--color-next);
+}
+
+.btn-check.next:not(:disabled):hover {
+  background: #337571;
+}
+
+.btn-bottom {
+  font-size: 16pt;
+}
+
+/* Left column: status card, then End game (left-aligned) */
+.game-status {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+/* After winning: Stats + End game stay in place, the win card moves left,
+   so its center is above the buttons' center: (155px buttons - 216px card) / 2 */
+.game-status.won .status-card {
+  margin-left: -30.5px;
+}
+
+/* ...and on narrow windows the column moves right by the same amount,
+   so the win card stays inside the game card */
+.game-status.won {
+  left: max(-235px, calc(46.5px - var(--side)));
+}
+
+.status-card + .btn {
+  margin-top: 35px;
+}
+
+.btn-stats + .btn-return {
+  margin-top: 20px;
+}
+
+/* Stats and End game: same width (fits "Termina partita", the longest label) */
+.btn-stats,
+.btn-return {
+  min-width: 155px;
+}
+
+/* Secondary look: white with accent frame and text (less important than Check) */
+.btn-return {
+  background: var(--color-bg-card);
+  color: var(--color-accent-dark);
+  border-color: var(--color-accent);
+}
+
+.btn-return:hover {
+  background: var(--color-accent-light);
+}
+
+.btn-return:disabled,
+.btn-return:disabled:hover {
+  background: var(--color-disabled-bg);
+  color: var(--color-disabled-text);
+  border-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Win moment: the whole card is green */
+.status-card.correct {
+  background: var(--color-correct);
+}
+
+/* ---------- Popups ---------- */
+/* Dimmed layer over the whole page; the game stays visible underneath */
+.overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.popup {
+  zoom: var(--scale, 1); /* the popup is outside #app, so it is scaled separately */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 20px 30px;
+  background: var(--color-panel);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+}
+
+.popup-line {
+  font-size: 16pt;
+}
+
+.popup-mistakes {
+  margin: 10px 0;
+  font-size: 14pt;
+}
+
+/* Country info tooltip, next to the mouse pointer */
+.hover-popup {
+  zoom: var(--scale, 1); /* outside #app, so scaled separately */
+  position: fixed;
+  z-index: 10;
+  padding: 6px 8px;
+  background: var(--color-panel);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+  font-size: 14pt;
+  white-space: pre-line;
+  pointer-events: none;
+}
+
+/* One-time hint, centered just above the country cards */
+.hover-hint {
+  position: absolute;
+  bottom: calc(100% - 25px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  padding: 8px 12px;
+  background: var(--color-panel);
+  border: var(--frame-border);
+  border-radius: var(--radius);
+  font-size: 14pt;
+  white-space: nowrap;
+}
+
+/* ---------- Dragging ---------- */
+/* Bank items can be grabbed; touch-action lets touch screens drag instead of scroll */
+.bank .btn:not(:disabled) {
+  cursor: grab;
+  touch-action: none;
+}
+
+.bank .btn.dragging {
+  opacity: 0.5;
+}
+
+/* Copy of the item that follows the pointer (outside #app, so zoomed separately) */
+.drag-ghost {
+  position: fixed;
+  z-index: 20;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  zoom: var(--scale, 1);
+  cursor: grabbing;
+}
+
+.drag-ghost-flag img {
+  display: block;
+  max-width: 146px;
+  max-height: 88px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.drag-ghost-capital {
+  padding: 8px 10px;
+  border-radius: var(--radius);
+  background: var(--color-accent);
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 14pt;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Filled slots can be dragged out (to another country or back to the banks) */
+.slot.filled {
+  cursor: grab;
+  touch-action: none;
+}
+
+.game.checked .slot.filled {
+  cursor: default;
+}
+
+.slot.dragging {
+  opacity: 0.5;
+}
+
+/* Banks under an item dragged out of a slot ("put it back") */
+.banks.drop-target {
+  outline: 3px dashed var(--color-accent);
+  outline-offset: 4px;
+  border-radius: var(--radius);
+}
+
+/* Country card under the dragged item */
+.country-card.drop-target {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 4px;
+  border-radius: var(--radius);
+}
+
+/* ---------- "Hidden flags" mode ---------- */
+/* Flags only: no capitals on screen */
+.game.flags-only .capitals-bank,
+.game.flags-only .cap-slot {
+  display: none;
+}
+
+/* Flags are revealed from left to right. --reveal = visible part of each flag,
+   animated by CSS (registered with @property, so it can be animated). */
+@property --reveal {
+  syntax: "<percentage>";
+  inherits: true;
+  initial-value: 100%;
+}
+
+/* Restarted every round; the duration is set from JS (time limit minus 2 s) */
+body.hidden-flags {
+  animation: hidden-flags-reveal 13s linear forwards;
+}
+
+@keyframes hidden-flags-reveal {
+  from { --reveal: 10%; }
+  to { --reveal: 100%; }
+}
+
+/* Flags in slots and the dragged copy – until the round is checked;
+   flags in the bank – also after checking (the reveal is paused there) */
+body.hidden-flags .btn-flag img,
+body.hidden-flags .game:not(.checked) .flag-slot img,
+body.hidden-flags .drag-ghost-flag img {
+  clip-path: inset(0 calc(100% - var(--reveal)) 0 0);
+}
+
+/* After checking: the reveal stops (bank flags stay as they were) */
+body.hidden-flags.reveal-paused {
+  animation-play-state: paused;
+}
+
+/* Striped curtain behind the hidden part of bank flags */
+body.hidden-flags .flag-box {
+  background: repeating-linear-gradient(45deg, #d3d9e0 0 6px, #eef1f4 6px 12px);
+}
