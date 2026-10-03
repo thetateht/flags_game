@@ -440,8 +440,8 @@ img {
   color: var(--color-text);
 }
 
-/* Slots are clickable until the round is checked (empty: select the country,
-   filled: put the flag/capital back to the bank) */
+/* Slots are clickable until the round is checked (selects the country;
+   filled ones can also be dragged – see "Dragging" below) */
 .slot {
   cursor: pointer;
 }

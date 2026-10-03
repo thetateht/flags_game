@@ -153,25 +153,10 @@ function assignCapital() {
   capitalButtons.get(capitalCode).classList.add("used");
 }
 
-// Click on a slot (ignored once the round is checked):
-// filled – the flag goes back to the bank; in both cases the country gets selected.
-function onFlagSlotClick(countryCode) {
+// Click on a slot (empty or filled) only selects its country (until the round is checked).
+// A flag/capital is removed by dragging it back to the banks, or replaced by another one.
+function onSlotClick(countryCode) {
   if (app.engine.isChecked) return;
-  const previous = app.engine.unassignFlag(countryCode);
-  if (previous !== null) {
-    flagButtons.get(previous).classList.remove("used");
-    clearFlagSlot(countryCode);
-  }
-  selectItem("country", countryButtons.get(countryCode), countryCode);
-}
-
-function onCapSlotClick(countryCode) {
-  if (app.engine.isChecked) return;
-  const previous = app.engine.unassignCapital(countryCode);
-  if (previous !== null) {
-    capitalButtons.get(previous).classList.remove("used");
-    clearCapSlot(countryCode);
-  }
   selectItem("country", countryButtons.get(countryCode), countryCode);
 }
 
@@ -499,12 +484,12 @@ function renderCountryCard(code) {
   countryButtons.set(code, button);
 
   const flagSlot = el("div", "slot flag-slot", "flag");
-  flagSlot.addEventListener("click", () => onFlagSlotClick(code));
+  flagSlot.addEventListener("click", () => onSlotClick(code));
   makeSlotDraggable(flagSlot, "flag", code);
   flagSlots.set(code, flagSlot);
 
   const capSlot = el("div", "slot cap-slot", "capital");
-  capSlot.addEventListener("click", () => onCapSlotClick(code));
+  capSlot.addEventListener("click", () => onSlotClick(code));
   makeSlotDraggable(capSlot, "capital", code);
   capSlots.set(code, capSlot);
 
