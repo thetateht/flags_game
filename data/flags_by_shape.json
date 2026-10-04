@@ -116,8 +116,8 @@
     },
     "triangle": {
         "easy": ["cu", "cz", "jo", "ph", "ps", "za"],
-        "hard": ["bs", "dj", "er", "gq", "gy", "mz", "sd", "ss", "st", "tl", "vu", "zw"],
-        "extr": ["eh", "mq", "pr", "sx"]
+        "hard": ["bs", "dj", "er", "gq", "gy", "mz", "sd", "ss", "st", "vu", "zw"],
+        "extr": ["eh", "mq", "pr", "sx", "tl"]
     },
     "window": {
         "easy": ["au", "lr", "my", "us"],
